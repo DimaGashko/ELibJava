@@ -1,0 +1,48 @@
+@import shared/base
+
+.wrapper
+  -fx-pref-width: -fx-main-window-width
+  -fx-pref-height: -fx-main-window-height
+  -fx-background-color: -fx-main-top-color
+
+// Menu
+.menu
+  -fx-font-size: 12px
+
+// Toolbar
+.toolbar
+
+  &__tool
+    @extend %baseButton
+
+// Filters
+.filters
+  -fx-max-width: 500px
+  -fx-min-width: 300px
+
+  &__title
+    @extend %h1
+
+  &__reset
+    @extend %baseButton
+
+.filterGroup
+
+  &__title
+    @extend %h2
+
+  &__subtitle
+    @extend  %h3
+
+// Books
+.books
+
+  &__title
+    @extend %h1
+
+.booksList
+
+  &__book
+    -fx-pref-width: 200px
+    -fx-pref-height: 200px
+

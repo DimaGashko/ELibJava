@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXDatePicker?>
+<?import com.jfoenix.controls.JFXSlider?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.TableColumn?>
+
+<BorderPane styleClass="wrapper" stylesheets="@../styles/index.css" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.controllers.Index">
+   <top>
+      <VBox BorderPane.alignment="CENTER">
+         <children>
+
+             <!-- Menu -->
+            <MenuBar styleClass="menu">
+              <menus>
+                <Menu mnemonicParsing="false" text="File">
+                  <items>
+                      <MenuItem fx:id="fxMenuAddBook" mnemonicParsing="false" onAction="#fxOnMenuAddBook" text="Add new book" />
+                      <MenuItem fx:id="fxMenuResetFilters" mnemonicParsing="false" onAction="#fxOnMenuResetFilters" text="Reset filters" />
+                        <SeparatorMenuItem mnemonicParsing="false" />
+                    <MenuItem fx:id="fxMenuAppExit" mnemonicParsing="false" onAction="#fxOnMenuAppExit" text="Exit" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Edit">
+                  <items>
+                        <MenuItem fx:id="fxMenuEditBook" mnemonicParsing="false" onAction="#fxOnMenuEditBook" text="Edit the book" />
+                        <MenuItem fx:id="fxMenuRemoveBooks" mnemonicParsing="false" onAction="#fxOnMenuRemoveBooks" text="Remove the book" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Help">
+                  <items>
+                    <MenuItem fx:id="fxMenuHelp" mnemonicParsing="false" onAction="#fxOnMenuHelp" text="Help" />
+                        <MenuItem fx:id="fxMenuAbout" mnemonicParsing="false" onAction="#fxOnMenuAbout" text="About" />
+                  </items>
+                </Menu>
+              </menus>
+            </MenuBar>
+
+             <!-- Toolbar -->
+            <ToolBar nodeOrientation="RIGHT_TO_LEFT" styleClass="toolbar">
+               <items>
+                  <JFXButton fx:id="fxToolRemove" onAction="#fxOnToolRemove" styleClass="toolbar__tool" text="Remove" />
+                  <JFXButton fx:id="fxToolEdit" onAction="#fxOnToolEdit" styleClass="toolbar__tool" text="Edit" />
+                  <JFXButton fx:id="fxToolAdd" onAction="#fxOnToolAdd" styleClass="toolbar__tool" text="Add" />
+               </items>
+            </ToolBar>
+         </children></VBox>
+   </top>
+   <center>
+      <SplitPane dividerPositions="0.1" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <items>
+            <ScrollPane fitToHeight="true" fitToWidth="true" focusTraversable="true" nodeOrientation="LEFT_TO_RIGHT" styleClass="filters">
+                <content>
+                <!-- Filters -->
+                  <VBox spacing="15.0">
+                     <children>
+                        <VBox prefHeight="200.0" prefWidth="100.0">
+                           <children>
+                               <Label styleClass="filters__title" text="Filters" />
+                           </children>
+                        </VBox>
+                         <VBox styleClass="filterGroup">
+                             <Label styleClass="filterGroup__title" text="Name:" />
+                             <JFXTextField fx:id="fxFilterName" focusColor="#757575" onAction="#fxOnRunFilter" onKeyTyped="#fxOnRunFilter" promptText="The name" styleClass="filterGroup__field" />
+                        <VBox.margin>
+                           <Insets />
+                        </VBox.margin>
+                         </VBox>
+                         <VBox styleClass="filterGroup">
+                             <Label styleClass="filterGroup__title" text="Author:" />
+                             <JFXTextField fx:id="fxFilterAuthor" focusColor="#757575" onAction="#fxOnRunFilter" onKeyTyped="#fxOnRunFilter" promptText="The author" styleClass="filterGroup__field" />
+                        <VBox.margin>
+                           <Insets />
+                        </VBox.margin>
+                         </VBox>
+                         <VBox styleClass="filterGroup">
+                             <Label styleClass="filterGroup__title" text="Publisher:" />
+                             <JFXTextField fx:id="fxFilterPublisher" focusColor="#757575" onAction="#fxOnRunFilter" onKeyTyped="#fxOnRunFilter" promptText="The publisher" styleClass="filterGroup__field" />
+                         </VBox>
+                         <VBox styleClass="filterGroup">
+                             <Label styleClass="filterGroup__title" text="Price:" />
+                             <Label styleClass="filterGroup__subtitle" text="From:" />
+                           <JFXSlider fx:id="fxFilterPriceFrom" min="${controller.minPrice}" max="${controller.maxPrice}" majorTickUnit="100.0" onKeyReleased="#fxOnRunFilter" onMouseClicked="#fxOnRunFilter" onMouseDragged="#fxOnRunFilter" showTickLabels="true" showTickMarks="true" value="0" />
+                             <Label styleClass="filterGroup__subtitle" text="To:" />
+                           <JFXSlider fx:id="fxFilterPriceTo" min="${controller.minPrice}" max="${controller.maxPrice}" majorTickUnit="100.0" onKeyReleased="#fxOnRunFilter" onMouseClicked="#fxOnRunFilter" onMouseDragged="#fxOnRunFilter" showTickLabels="true" showTickMarks="true" value="0" />
+                         </VBox>
+                         <VBox styleClass="filterGroup">
+                             <Label styleClass="filterGroup__title" text="Pages:" />
+                             <Label styleClass="filterGroup__subtitle" text="From:" />
+                             <JFXSlider fx:id="fxFilterPagesFrom" min="${controller.minPages}" max="${controller.maxPages}" majorTickUnit="100.0" onKeyReleased="#fxOnRunFilter" onMouseClicked="#fxOnRunFilter" onMouseDragged="#fxOnRunFilter" showTickLabels="true" showTickMarks="true" value="0" />
+                             <Label styleClass="filterGroup__subtitle" text="To:" />
+                             <JFXSlider fx:id="fxFilterPagesTo" min="${controller.minPages}" max="${controller.maxPages}" majorTickUnit="100.0" onKeyReleased="#fxOnRunFilter" onMouseClicked="#fxOnRunFilter" onMouseDragged="#fxOnRunFilter" showTickLabels="true" showTickMarks="true" value="0" />
+                         </VBox>
+                         <VBox styleClass="filterGroup">
+                             <Label styleClass="filterGroup__title" text="Date:" />
+                             <Label styleClass="filterGroup__subtitle" text="From:" />
+                             <JFXDatePicker fx:id="fxFilterDateFrom" defaultColor="rgba(117,117,117,1)" onAction="#fxOnRunFilter" onKeyTyped="#fxOnRunFilter">
+                              <VBox.margin>
+                                 <Insets bottom="10.0" />
+                              </VBox.margin>
+                           </JFXDatePicker>
+                             <Label styleClass="filterGroup__subtitle" text="To:" />
+                             <JFXDatePicker fx:id="fxFilterDateTo" defaultColor="rgba(117,117,117,1)" onAction="#fxOnRunFilter" onKeyTyped="#fxOnRunFilter">
+                              <padding>
+                                 <Insets bottom="10.0" />
+                              </padding>
+                           </JFXDatePicker>
+                         </VBox>
+                        <VBox nodeOrientation="RIGHT_TO_LEFT">
+                           <children>
+                              <JFXButton fx:id="fxResetFilters" buttonType="RAISED" onAction="#fxOnResetFilters" styleClass="filters__reset" text="Reset filters" />
+                           </children>
+                        </VBox>
+                     </children>
+                  <padding>
+                     <Insets bottom="15.0" left="15.0" right="15.0" top="15.0" />
+                  </padding>
+                  </VBox>
+                </content>
+            </ScrollPane>
+            <AnchorPane prefHeight="200.0" prefWidth="200.0">
+               <children>
+                  <VBox AnchorPane.leftAnchor="10.0">
+                     <children>
+                        <Label styleClass="books__title" text="Books" />
+                     </children>
+                  </VBox>
+                   <TableView fx:id="fxBooksTable" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="40.0">
+                       <columns>
+                           <TableColumn fx:id="fxBooksTableColumnName" text="Name" minWidth="150" />
+                           <TableColumn fx:id="fxBooksTableColumnAuthor" text="Author" minWidth="150" />
+                           <TableColumn fx:id="fxBooksTableColumnPublisher" text="Publisher" minWidth="150" />
+                           <TableColumn fx:id="fxBooksTableColumnPrice" text="Price" minWidth="90" />
+                           <TableColumn fx:id="fxBooksTableColumnPages" text="Pages" minWidth="60" />
+                           <TableColumn fx:id="fxBooksTableColumnDate" text="Date" minWidth="100"  />
+                       </columns>
+                       <columnResizePolicy>
+                           <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                       </columnResizePolicy>
+                   </TableView>
+               </children>
+            </AnchorPane>
+         </items>
+      </SplitPane>
+   </center>
+</BorderPane>
