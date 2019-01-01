@@ -1,4 +1,4 @@
-#ELib - your world of books
+# ELib - your world of books
 
 Простое тестовое приложение на Java с использованием material-дизайна на основе библиотеки JFoenix
 
