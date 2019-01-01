@@ -1,623 +1,620 @@
-The Great Gatsby;F. Scott Fitzgerald;Interlink Publishing Online;1697-12-08;417;1063
-The Grapes of Wrath;John Steinbeck;Steerforth Press;1385-12-12;1014;604
-Nineteen Eighty-Four;George Orwell;Catbird Press;1366-12-03;895;209
-Ulysses;James Joyce;Overlook Press;1230-12-12;208;583
-Lolita;Vladimir Nabokov;Picador UK;1293-12-10;1003;472
-Catch-22;Joseph Heller;Northwestern University Press;1186-12-05;676;831
-The Catcher in the Rye;J. D. Salinger;Indiana University Press;1903-12-15;356;927
-Beloved;Toni Morrison;Creation Books;1270-12-06;118;836
-The Sound and the Fury;William Faulkner;English;1488-12-19;40;313
-To Kill a Mockingbird  ;Harper Lee;Page information;1278-12-17;488;404
-The Lord of the Rings;J. R. R. Tolkien;Wikidata item;1282-12-02;804;170
-One Hundred Years of Solitude;Gabriel García Márquez;Simple talk;1224-12-24;159;717
-Brave New World;Aldous Huxley;Disclaimers;1732-12-02;134;882
-To the Lighthouse;Virginia Woolf;Paulist Press;1700-12-02;613;628
-Invisible Man;Ralph Ellison;Penguin Classics;1752-12-17;845;422
-Gone with the Wind ;Margaret Mitchell;Atlas Press;1307-12-03;357;588
-Jane Eyre;Charlotte Brontë;Show any page;1641-12-17;697;764
-On the Road;Jack Kerouac;Harvard University Press;1930-12-24;911;952
-Pride and Prejudice;Jane Austen;University of Chicago Press;1962-12-06;745;941
-Lord of the Flies;William Golding;MIT Press;1408-12-05;847;790
-Middlemarch;George Eliot;Welcome to Random House;1101-12-09;927;289
-Anna Karenina;Leo Tolstoy;Developers;1672-12-02;310;376
-Animal Farm;George Orwell;Central European University Press;1495-12-22;862;259
-A Passage to India;E. M. Forster;Thames & Hudson (USA);1163-12-25;585;283
-In Search of Lost Time;Marcel Proust;Godine Publishing;1113-12-23;309;637
-Wuthering Heights;Emily Brontë;Ivan R. Dee;1864-12-18;862;899
-The Chronicles of Narnia;C. S. Lewis;Harvard University Press;1089-12-07;951;1088
-The Color Purple;Alice Walker;Northwestern University Press;1594-12-09;833;851
-Midnight's Children;Salman Rushdie;Vintage Books at Random House (UK);1988-12-05;232;855
-A Portrait of the Artist as a Young Man;James Joyce;Harvard University Press;1795-12-19;879;858
-Winnie-the-Pooh;A. A. Milne;Open Court Book;1591-12-08;691;649
-Heart of Darkness;Joseph Conrad;Upload file;1937-12-12;563;87
-Mrs Dalloway;Virginia Woolf;Hesperus press;1219-12-15;1006;924
-Slaughterhouse-Five;Kurt Vonnegut;Tuttle Publishing;1544-12-23;1029;753
-War and Peace;Leo Tolstoy;Atlas Press;1414-12-19;576;779
-Of Mice and Men;John Steinbeck;Dover Publications;1261-12-04;1117;961
-Moby-Dick;Herman Melville;Show any page;1094-12-25;1025;406
-Little Women ;Louisa May Alcott;Text is available under the Creative Commons Attribution/Share-Alike License and the GFDL additional terms may apply. See Terms of Use for details.;1830-12-12;207;273
-Native Son;Richard Wright;Mobile view;2016-12-07;960;263
-The Hitchhiker's Guide to the Galaxy;Douglas Adams;University of California Press Books;1823-12-15;592;548
-Great Expectations;Charles Dickens;Wordsworth Editions Website;1295-12-18;290;732
-The Sun Also Rises;Ernest Hemingway;Hackett;1428-12-15;1011;305
-Rebecca;Daphne du Maurier;Enable previews;1646-12-03;1098;107
-The Stranger;Albert Camus;University of California Press Books;1808-12-13;430;815
-Alice's Adventures in Wonderland and Through the Looking Glass;Lewis Carroll;Copper Canyon Press;1282-12-10;415;395
-For Whom the Bell Tolls;Ernest Hemingway;Download as PDF;1072-12-21;468;218
-The Hobbit;J. R. R. Tolkien;Duckworth Online;1430-12-10;594;654
-Madame Bovary;Gustave Flaubert;Godine Publishing;1560-12-11;58;881
-The Wind in the Willows;Kenneth Grahame;About Wikipedia;1145-12-05;788;320
-The Handmaid’s Tale;Margaret Atwood;Thames & Hudson (UK);1693-12-03;260;1085
-Tess of the D'Urbervilles;Thomas Hardy;Penguin Classics;1783-12-13;374;52
-Their Eyes Were Watching God;Zora Neale Hurston;Atlas Press;1360-12-23;935;370
-A Prayer for Owen Meany;John Irving;randomhouse.com (US);1511-12-21;207;28
-Emma  ;Jane Austen;Penguin Classics;1645-12-24;534;282
-David Copperfield;Charles Dickens;Pan Macmillan;1205-12-02;745;283
-The Portrait of a Lady;Henry James;Read;1476-12-12;632;383
-The Trial ;Franz Kafka;Continuum - Athlone;1184-12-05;1009;225
-Crime and Punishment;Fyodor Dostoyevsky;What links here;1003-12-10;1006;558
-A Clockwork Orange;Anthony Burgess;Main page;1916-12-12;1031;596
-The Age of Innocence;Edith Wharton;Disclaimers;1386-12-02;899;521
-Don Quixote;Miguel de Cervantes;Page for printing;1728-12-04;663;1045
-As I Lay Dying;William Faulkner;Da Capo Press;1817-12-14;480;593
-His Dark Materials;Philip Pullman;Prometheus Books;1068-12-20;585;441
-Brideshead Revisited;Evelyn Waugh;University of Nebraska Press;1274-12-16;649;228
-The Golden Notebook;Doris Lessing;Dover Publications;1211-12-23;94;748
-Adventures of Huckleberry Finn;Mark Twain;Bison Books;1094-12-26;834;1086
-Things Fall Apart;Chinua Achebe;Create account;1515-12-04;928;1061
-Tom Jones;Henry Fielding;View history;1974-12-02;84;385
-Harry Potter and the Philosopher's Stone;J. K. Rowling;Belknap Press of Harvard University Press;1856-12-25;1115;513
-Song of Solomon;Toni Morrison;Wisdom Publications;1035-12-08;843;62
-Molloy Malone Dies; The Unnamable;Samuel Beckett;1317-12-19;548;925
-Finnegans Wake;James Joyce;Paulist Press;1076-12-11;860;210
-Absalom, Absalom!;William Faulkner;University of Nebraska Press;1629-12-26;820;244
-The Life and Opinions of Tristram Shandy, Gentleman;Laurence Sterne;Yale University Press;1665-12-18;596;896
-Charlotte's Web;E. B. White;Smith and Kraus Publishers;1204-12-15;1028;259
-The Ambassadors;Henry James;W.W. Norton & Company;1135-12-08;1025;620
-Sons and Lovers;D. H. Lawrence;University of Toronto Medieval Texts;1343-12-07;244;597
-A Farewell to Arms;Ernest Hemingway;Scholastic Inc.;1028-12-12;986;404
-Women in Love;D. H. Lawrence;Station Hill Press;1821-12-04;194;153
-Birdsong;Sebastian Faulks;Page for printing;1326-12-05;549;906
-Gulliver's travels;Jonathan Swift;Page for printing;1928-12-14;813;883
-Watership Down;Richard Adams;Open Court;1723-12-25;113;312
-Gravity's Rainbow;Thomas Pynchon;Counterpoint Press;1576-12-21;161;446
-Frankenstein  ;Mary Shelley;Make a book;1479-12-03;388;1054
-Clarissa: Or the History of a Young Lady;Samuel Richardson;Picador UK;1213-12-14;336;507
-The Old Man and the Sea ;Ernest Hemingway;Picador UK;1446-12-06;122;369
-Dune;Frank Herbert;Glas New Russian Writing;1203-12-02;609;139
-The Life and Adventures of Robinson Crusoe;Daniel Defoe;Da Capo Press;1402-12-03;399;101
-Go Tell It on the Mountain;James Baldwin;Copper Canyon Press;1324-12-26;123;247
-All the King's Men;Robert Penn Warren;Ardis Books Homepage;1973-12-06;929;194
-The Magic Mountain;Thomas Mann;Phaidon Press;1779-12-02;640;130
-The Call of the Wild;Jack London;Pimlico Books at Random House;1936-12-18;386;350
-The Tin Drum;Günter Grass;Athlone Books;1583-12-02;648;26
-The 42nd Parallel;John Dos Passos;Page information;1816-12-26;630;463
-Under the Volcano;Malcolm Lowry;Cookie statement;1276-12-18;764;662
-Disgrace;J. M. Coetzee;Give to Wikipedia;1206-12-24;558;569
-The Diary of a Young Girl;Anne Frank;Counterpoint Press;1237-12-19;1105;734
-Bleak House;Charles Dickens;Farrar;1972-12-03;579;1058
-Light in August;William Faulkner;Pimlico Books at Random House;1509-12-22;140;137
-The Scarlet Letter;Nathaniel Hawthorne;Show any page;1101-12-25;1093;191
-Pale Fire;Vladimir Nabokov;Kessinger Publishing;1499-12-14;99;478
-Captain Corelli's Mandolin;Louis de Bernières;Indiana University Press;1042-12-04;192;1026
-Howards End;E. M. Forster;Mobile view;1743-12-10;272;447
-The Heart is A Lonely Hunter;Carson McCullers;Continuum - Athlone;1846-12-14;198;469
-Vanity Fair;William Makepeace Thackeray;Bloodaxe Books;1883-12-18;995;337
-Commedia;Dante Alighieri;Ardis Books Homepage;1407-12-17;907;736
-The Count of Monte Cristo;Alexandre Dumas;Bison Books;1226-12-10;783;669
-An American Tragedy;Theodore Dreiser;Thames & Hudson (USA);1673-12-25;1002;715
-White Noise;Don DeLillo;Arcade Publishing;1995-12-23;244;731
-The World According to Garp;John Irving;Related changes;1729-12-22;1053;1032
-Atonement;Ian McEwan;Carroll and Graf;1265-12-20;416;1064
-Nostromo;Joseph Conrad;Disclaimers;1252-12-08;938;326
-The House of Mirth ;Edith Wharton;Talk;1948-12-14;803;605
-The Brothers Karamazov;Fyodor Dostoevsky;Johns Hopkins University Press;1448-12-21;1034;528
-The Good Soldier;Ford Madox Ford;Anvil Press Poetry;1276-12-24;139;662
-The Name of the Rose ;Umberto Eco;Ediciones Altovolta;1381-12-09;641;741
-The Shipping News;Annie Proulx;Hesperus press;1614-12-05;807;87
-The Woman in White;Wilkie Collins;Station Hill Press;1349-12-18;686;647
-Herzog;Saul Bellow;Read;1480-12-13;31;1074
-The Counterfeiters;Andre Gide;Stanford University Press;2003-12-05;713;928
-My Ántonia;Willa Cather;Shanti Sadan Publications;1848-12-13;841;658
-Scoop;Evelyn Waugh;Verso Books;1537-12-04;289;490
-A Room with a View;E. M. Forster;Ediciones Altovolta;1329-12-18;945;893
-Bible: King James Version;KJV;Exact Change;1649-12-24;736;201
-Wide Sargasso Sea;Jean Rhys;Athlone Books;1085-12-10;725;496
-Love in The Time of Cholera;Gabriel García Márquez;Cambridge University Press;1584-12-13;647;172
-The Remains of the day;Kazuo Ishiguro;Cookie statement;1090-12-08;1041;173
-The Big Sleep;Raymond Chandler;Scholastic Inc.;1489-12-19;410;818
-I, Claudius;Robert Graves;Thames & Hudson (USA);1635-12-14;767;333
-Tropic of Cancer;Henry Miller;Developers;1707-12-05;646;1110
-Tender is the Night;F. Scott Fitzgerald;Inpress Books UK;1953-12-14;180;651
-Journey to the End of the Night;Louis-Ferdinand Céline;Talk;1062-12-25;1050;42
-The War of the Worlds;H. G. Wells;Penguin Group (USA);1842-12-06;212;86
-A Suitable Boy;Vikram Seth;Cookie statement;1651-12-08;407;830
-Possession;A.S. Byatt;Johns Hopkins University Press;1573-12-26;1081;56
-A Confederacy of Dunces;John Kennedy Toole;Belknap Press of Harvard University Press;1278-12-20;248;337
-The Bell Jar;Sylvia Plath;Publishing;1405-12-26;948;528
-Waiting for Godot;Samuel Beckett;Inpress Books UK;1255-12-14;326;144
-The Brief Wondrous Life of Oscar Wao;Junot Diaz;Oxford University Press - UK;1896-12-05;476;787
-Being and Nothingness;Jean-Paul Sartre;Oxford University Press - US;1734-12-19;38;269
-A Thousand Acres;Jane Smiley;Modern Library;1466-12-15;338;921
-The Amazing Adventures of Kavalier and Clay;Michael Chabon;University of Minnesota Press;1417-12-06;935;795
-The Gulag Archipelago, 1918-1956: An Experiment in Literary Investigation;Aleksandr Solzhenitsyn;Welcome to Random House;1691-12-13;554;143
-Charlie and the Chocolate Factory ;Roald Dahl;University of Nebraska Press;1695-12-03;1069;699
-Lady Chatterley's Lover;D. H. Lawrence;English;1889-12-26;1114;622
-JR;William Gaddis;Johns Hopkins University Press;1369-12-19;631;622
-The Histories;Herodotus;Disclaimers;1742-12-21;622;311
-Doctor Zhivago;Boris Pasternak;randomhouse.com (US);1724-12-23;778;697
-Lucky Jim;Kingsley Amis;Give to Wikipedia;1177-12-22;177;384
-Underworld;Don DeLillo;Show any page;1057-12-10;809;516
-If on a Winter's Night a Traveler;Italo Calvino;City Lights Publishers;1629-12-15;721;780
-Life;Georges Perec;Make a book;1244-12-18;867;85
-The Master and Margarita;Mikhail Bulgakov;Dalkey Archive Press;1575-12-12;716;835
-The Good Earth;Pearl S. Buck;Thames & Hudson (UK);1859-12-19;315;465
-Henderson the Rain King;Saul Bellow;Marion Boyars Online;1777-12-24;56;156
-Ironweed;William J. Kennedy;English;1277-12-16;348;436
-Persuasion;Jane Austen;Pimlico Books at Random House;1965-12-16;783;684
-The Rainbow;D. H. Lawrence;English;1430-12-26;572;919
-A Dance to the Music of Time;Anthony Powell;Cambridge University Press;1956-12-07;122;351
-The Unbearable Lightness of Being;Milan Kundera;Kessinger Publishing;1745-12-17;956;930
-Kim;Rudyard Kipling;Belknap Press of Harvard University Press;1661-12-15;201;498
-Brighton Rock;Graham Greene;Counterpoint Press;1506-12-18;247;394
-One Flew Over the Cuckoo's Nest;Ken Kesey;Hesperus press;1182-12-13;732;160
-The Adventures of Augie March;Saul Bellow;Upload file;1003-12-14;1018;507
-A Bend in the River;V. S. Naipaul;Da Capo Press;1608-12-11;72;939
-The Hound of the Baskervilles;Sir Arthur Conan Doyle;Princeton University Press;1789-12-20;1104;387
-Housekeeping;Marilynne Robinson;Page;1821-12-21;501;905
-Sophie's Choice ;William Styron;Duckworth Online;1233-12-15;79;96
-Ethan Frome ;Edith Wharton;Thames & Hudson (USA);1625-12-06;453;504
-Buddenbrooks;Thomas Mann;Related changes;1683-12-24;89;75
-Thérèse Desqueyroux;François Mauriac;Methuen;1892-12-26;650;354
-The Killer Angels;Michael Shaara;Kodansha;1914-12-23;722;400
-Anne of Green Gables ;L. M. Montgomery;University of Nebraska Press;1143-12-15;955;128
-If This Is a Man and The Truce;Primo Levi;Zephyr Press;1925-12-26;118;64
-The bridge of San Luis Rey;Thornton Wilder;Cookie statement;1643-12-06;687;92
-A Moveable Feast;Ernest Hemingway;Log in;1237-12-20;786;280
-Dubliners;James Joyce;Routledge;1193-12-11;942;56
-Ficciones;Jorge Luis Borges;Prometheus Books;1705-12-22;141;505
-Schindler's List;Thomas Keneally;Stanford University Press;1158-12-10;658;1010
-The Prime of Miss Jean Brodie;Muriel Spark;University of Nebraska Press;1205-12-15;1037;156
-Strange Case of Dr. Jekyll and Mr. Hyde ;Robert Louis Stevenson;Make a book;1909-12-05;1091;43
-Far from the Madding Crowd;Thomas Hardy;Wisdom Publications;1646-12-10;284;313
-Gilead;Marilynne Robinson;Hesperus press;1098-12-15;311;886
-Nausea;Jean-Paul Sartre;Welcome to Random House;1302-12-12;281;772
-The Wings of the Dove;Henry James;Welcome to Random House;1037-12-13;367;398
-The Little Prince;Antoine de Saint-Exupéry;Help;1692-12-26;344;887
-The Red Badge of Courage;Stephen Crane;Phaidon Press;1645-12-18;400;370
-The Odyssey;Homer;Detritus.com;1615-12-09;538;866
-Memoirs of a Geisha;Arthur Golden;Developers;1050-12-20;562;363
-Men Without Women;Ernest Hemingway;Steerforth Press;1885-12-26;293;153
-The Tale of Genji;Murasaki Shikibu;Permanent link;1885-12-11;715;789
-Cannery Row;John Steinbeck;What links here;1976-12-05;352;224
-Life of Pi;Yann Martel;Talk;1191-12-09;26;565
-In Our Time;Ernest Hemingway;Belknap Press of Harvard University Press;1983-12-21;240;696
-The Pilgrim's Progress;John Bunyan;Page;1653-12-05;47;718
-Jude the Obscure;Thomas Hardy;Change;1643-12-25;742;61
-Breakfast of Champions;Kurt Vonnegut;English;1424-12-16;36;923
-Six Characters in Search of an Author;Luigi Pirandello;Harvard University Press;1468-12-18;883;711
-The Day of the Locust;Nathanael West;Dover Publications;1031-12-06;1064;159
-The Stand;Stephen King;Da Capo Press;1149-12-26;649;610
-Austerlitz;W.G. Sebald;About Wikipedia;1489-12-09;996;706
-Cat's Cradle;Kurt Vonnegut;Wordsworth Editions Website;1678-12-02;694;1006
-The Public Burning;Robert Coover;Scholastic Inc.;1716-12-02;570;879
-Harry Potter and the Goblet of Fire;J. K. Rowling;Steerforth Press;1990-12-02;821;300
-The Wind-Up Bird Chronicle;Haruki Murakami;HarperCollins Publishers;1302-12-20;585;47
-Man's Fate;Andre Malraux;Main page;1514-12-15;787;576
-Jazz;Toni Morrison;Harvard University Press;1220-12-21;230;148
-Dead Souls ;Nikolai Gogol;Main page;1620-12-08;133;517
-Rabbit, Run;John Updike;Cookie statement;1854-12-22;493;1062
-The Complete Stories;Flannery O'Connor;Detritus.com;1576-12-20;483;169
-The Making of Americans;Gertrude Stein;Central European University Press;1319-12-17;904;471
-Crash;J. G. Ballard;iBooks, Inc.;1284-12-07;757;1050
-The Glass Bead Game;Hermann Hesse;Marion Boyars Online;1978-12-15;108;393
-Darkness at Noon;Arthur Koestler;Enable previews;1660-12-15;256;394
-The Plague;Albert Camus;Carcanet;1015-12-26;787;543
-The Soft Machine;William S. Burroughs;Schocken Books;1681-12-20;516;773
-Les Liaisons Dangereuses;Pierre Choderlos de Laclos;Inpress Books UK;1971-12-02;446;468
-The Wanderer;Alain-Fournier;Pan Macmillan;1265-12-02;904;883
-Winesburg, Ohio;Sherwood Anderson;Publishing;1021-12-14;986;190
-Froth on the Daydream;Boris Vian;Read;1496-12-10;730;614
-Trainspotting;Irvine Welsh;Northwestern University Press;1386-12-15;1013;1094
-The Moviegoer;Walker Percy;Disclaimers;1458-12-12;933;743
-The Canterbury Tales;Geoffrey Chaucer;Black Sparrow Books;1071-12-17;700;412
-Main Street;Sinclair Lewis;Thames & Hudson (USA);1580-12-15;64;251
-Take It or Leave It;Raymond Federman;Lists;1752-12-02;89;453
-Wild Swans: Three Daughters of China;Jung Chang;Smith and Kraus Publishers;1269-12-05;182;109
-Nightmare Abbey;Thomas Love Peacock;English;1344-12-06;231;1115
-My Name is Red;Orhan Pamuk;University of Chicago Press;1972-12-21;365;345
-The Second Sex ;Simone de Beauvoir;iBooks, Inc.;1122-12-26;704;931
-The Awakening;Kate Chopin;Zephyr Press;1897-12-23;537;288
-From Here to Eternity;James Jones;Central European University Press;1585-12-14;330;797
-The Black Sheep;Honoré de Balzac;Black Sparrow Books;1831-12-04;1115;740
-The Man Without Qualities;Robert Musil;HarperCollins Publishers;1219-12-13;38;429
-The Way of All Flesh;Samuel Butler;Basic Books;1173-12-12;725;53
-The Wapshot Chronicle;John Cheever;HarperCollins Publishers;1017-12-25;530;684
-Going native;Stephen Wright;Tuttle Publishing;1897-12-11;1052;872
-The Charterhouse of Parma;Stendhal;Talk;1806-12-12;954;444
-The Lost Honor of Katharina Blum;Heinrich Böll;Shambhala Publications;1827-12-23;314;285
-The Complete Works of William Shakespeare   ;William Shakespeare;Indiana University Press;1117-12-07;859;170
-The Cairo Trilogy: Palace Walk, Palace of Desire, Sugar Street;Naguib Mahfouz;Dedalus Books;1324-12-18;299;132
-Stranger in a Strange Land;Robert A. Heinlein;Upload file;1575-12-24;694;897
-In Cold Blood;Truman Capote;New Directions Publishing;1480-12-16;679;67
-The Code of the Woosters;P. G. Wodehouse;Page;1805-12-11;692;78
-The Red and the Black;Stendhal;Oxford University Press - UK;1862-12-02;693;603
-Sybil;Benjamin Disraeli;Verso Books;1598-12-20;374;272
-In the Heart of the Heart of the Country & Other Stories ;William H. Gass;Log in;1611-12-18;658;1062
-Paroles;Jacques Prévert;Talk;1111-12-11;436;979
-The Maltese Falcon;Dashiell Hammett;Peter Owen Publishers;1162-12-11;93;587
-Alcools;Guillaume Apollinaire;Read;1189-12-10;934;90
-Wise Blood;Flannery O'Connor;Central European University Press;1523-12-15;626;326
-The Magus;John Fowles;Bloomsbury.com - Home page;1198-12-21;132;1104
-The Wonderful Adventures of Nils;Selma Lagerlöf;The New Press;1271-12-10;195;109
-The Blue Lotus;Hergé;Ivan R. Dee;1364-12-19;246;189
-The Naked and the Dead;Norman Mailer;This page was last changed on 21 June 2013, at 01:36.;1417-12-23;786;529
-Orlando: A Biography;Virginia Woolf;Paulist Press;1180-12-08;403;1039
-Hunger;Knut Hamsun;Simple talk;1768-12-22;987;420
-The Time Traveler's Wife;Audrey Niffenegger;Penguin Classics;1913-12-11;452;177
-A Tale of Two Cities;Charles Dickens;MIT Press;1502-12-26;994;493
-A Wrinkle in Time;Madeleine L'Engle;Bloodaxe Books;1860-12-15;724;505
-Les Misérables;Victor Hugo;Contributions;1027-12-07;608;861
-Tristes Tropiques;Claude Lévi-Strauss;Phoenix Press history reprints;1836-12-06;597;886
-Dream of the Red Chamber;Tsao Hsueh-Chin;Thames & Hudson (USA);1579-12-11;1000;359
-Slouching Towards Bethlehem;Joan Didion;This page was last changed on 21 June 2013, at 01:36.;1475-12-20;407;643
-Old Goriot;Honoré de Balzac;Princeton University Press;1536-12-08;837;287
-Oscar and Lucinda;Peter Carey;Harvard University Press;1605-12-03;658;629
-The Interrogation;J. M. G. Le Clezio;Picador USA;1789-12-18;793;735
-Appointment in Samarra;John O'Hara;Page information;1012-12-23;474;679
-A House for Mr.Biswas;V. S. Naipaul;Belknap Press of Harvard University Press;1414-12-11;567;673
-Perfume: The Story of a Murderer;Patrick Suskind;Anvil Press Poetry;1961-12-03;64;479
-Harry Potter and the Chamber of Secrets;J. K. Rowling;Hrvatski;1707-12-17;641;1106
-The Secret Garden ;Frances Hodgson Burnett;Pathfinder Books;1084-12-03;674;267
-Asterix the Gaul;René Goscinny;Routledge;1716-12-09;906;1104
-The Wasp Factory;Iain Banks;Page information;1012-12-02;189;68
-The Fountainhead;Ayn Rand;Hackett;1815-12-08;1036;956
-Four Plays;Eugene Ionesco;iBooks, Inc.;1746-12-04;1023;89
-Harry Potter and the Prisoner of Azkaban;J. K. Rowling;Text is available under the Creative Commons Attribution/Share-Alike License and the GFDL additional terms may apply. See Terms of Use for details.;1610-12-24;999;1070
-Germinal;Émile Zola;Welcome to Random House;1232-12-19;325;52
-The Moonstone;Wilkie Collins;Atlas Press;1737-12-09;1082;566
-Paddy Clarke Ha Ha Ha;Roddy Doyle;Tuttle Publishing;1268-12-24;578;680
-Sixty Stories;Donald Barthelme;Methuen;1079-12-08;321;274
-Three Essays on the Theory of Sexuality;Sigmund Freud;Dover Publications;1429-12-13;812;118
-Waiting for the Barbarians;J. M. Coetzee;Godine Publishing;1395-12-23;482;811
-Angela's Ashes;Frank McCourt;Lists;1176-12-14;36;229
-The Abyss;Marguerite Yourcenar;Athlone Books;1429-12-17;209;192
-The Way We Live Now;Anthony Trollope;City Lights Publishers;1271-12-12;401;313
-The Rifles;William Vollmann;Routledge;1102-12-22;821;386
-Democracy in America and Two essays on America;Alexis de Tocqueville;Shanti Sadan Publications;1296-12-09;394;132
-Cranford;Elizabeth Gaskell;Special pages;1839-12-15;781;717
-A Christmas Carol;Charles Dickens;Steerforth Press;1130-12-20;404;250
-Fahrenheit 451;Ray Bradbury;Steerforth Press;1119-12-10;1096;594
-The Recognitions;William Gaddis;Special pages;1122-12-06;741;853
-On the Origin of Species ;Charles Darwin;Main page;1129-12-19;626;348
-Sula;Toni Morrison;Dedalus Books;1246-12-15;45;672
-Daniel Deronda;George Eliot;University of Chicago Press;1969-12-13;113;1106
-The Tartar Steppe;Dino Buzzati;Simple start;1651-12-17;1053;527
-Young Lonigan;James T. Farrell;NYRB Classics;1444-12-22;844;428
-On the Social Contract;Jean-Jacques Rousseau;Verso Books;1516-12-17;816;243
-Sea of Poppies;Amitav Ghosh;Routledge;1425-12-11;919;556
-Portnoy's Complaint;Philip Roth;Smith and Kraus Publishers;1046-12-08;879;44
-Shadow of the Torturer;Gene Wolfe;Wikidata item;1142-12-09;454;1066
-Das Kapital;Karl Marx;University of California Press Books;1625-12-16;581;783
-Cider with Rosie;Laurie Lee;This page was last changed on 21 June 2013, at 01:36.;1724-12-07;669;713
-The Prince;Niccolò Machiavelli;Privacy policy;1042-12-16;1092;547
-The Horseman on the Roof;Jean Giono;Wikidata item;1616-12-08;899;701
-The Executioner's Song;Norman Mailer;About Wikipedia;1580-12-19;809;645
-Atlas Shrugged;Ayn Rand;Mobile view;1738-12-14;819;845
-Suite Française;Irene Nemirovsky;City Lights Publishers;1867-12-18;894;52
-Mountains Beyond Mountains;Tracy Kidder;Open Court Book;1256-12-03;465;201
-Cold Comfort Farm;Stella Gibbons;Privacy policy;1404-12-15;1109;1058
-The Story of Tracy Beaker;Jacqueline Wilson;Privacy policy;1487-12-10;847;54
-Angle of Repose;Wallace Stegner;Download as PDF;1341-12-22;678;149
-Confessions;Saint Augustine;Read;1472-12-08;924;701
-The Golden Bowl;Henry James;Northwestern University Press;1869-12-23;427;450
-Belle Du Seigneur;Albert Cohen;Tuttle Publishing;1065-12-09;495;65
-A Town Like Alice;Nevil Shute;Shambhala Publications;1214-12-09;894;779
-Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch;Neil Gaiman;Cookie statement;1038-12-03;468;1032
-Three Men in a Boat;Jerome K. Jerome;Dedalus Books;1129-12-10;63;499
-Leviathan;Thomas Hobbes;Ardis Books Homepage;1899-12-13;510;434
-The Ragged Trousered Philanthropists;Robert Tressell;Yale University Press;1202-12-25;269;619
-Bastard Out of Carolina;Dorothy Allison;Peter Owen Publishers;1410-12-14;782;416
-Hamlet;William Shakespeare;Bison Books;1981-12-08;209;608
-Sister Carrie;Theodore Dreiser;View history;1959-12-16;72;132
-Death Comes for the Archbishop;Willa Cather;Pan Macmillan;1192-12-02;376;695
-The Sea, the Sea;Iris Murdoch;Calder Publications;1606-12-23;555;359
-The French Lieutenant's Woman;John Fowles;Phaidon Press;1516-12-25;393;763
-The Pillars of The Earth ;Ken Follett;Catbird Press;1141-12-11;757;121
-Dhalgren;Samuel R. Delany;Dalkey Archive Press;1269-12-19;466;1012
-Swallows and Amazons;Arthur Ransome;Da Capo Press;1630-12-15;1056;737
-History of the Peloponnesian War;Thucydides;Overlook Press;1959-12-09;391;705
-The Picture of Dorian Gray;Oscar Wilde;Random House UK;1558-12-20;720;1123
-A handful of dust;Evelyn Waugh;Help;1839-12-22;225;184
-The Diary of a Nobody;George Grossmith;Random House UK;1818-12-05;627;506
-The Stain;Rikki Ducornet;Pantheon Books at Random House;1422-12-25;698;440
-Snow Country;Yasunari Kawabata;Make a book;1330-12-11;487;888
-The Bone People;Keri Hulme;Carroll and Graf;1485-12-17;264;790
-The God of Small Things;Arundhati Roy;City Lights Publishers;1225-12-20;1036;744
-Zazie dans le Métro;Raymond Queneau;Simple start;1525-12-11;1008;164
-Lord Jim;Joseph Conrad;Schocken Books;1802-12-07;224;1099
-Neuromancer;William Gibson;Make a book;1081-12-05;33;450
-Treasure Island;Robert Louis Stevenson;Detritus.com;1643-12-24;985;946
-Ragtime;E. L. Doctorow;Wordsworth Editions Website;1888-12-11;269;950
-The Kite Runner;Khaled Hosseini;University of Nebraska Press;1916-12-18;403;232
-Confusion: The Private Papers of Privy Councillor R. von D.;Stefan Zweig;Publishing;1854-12-26;950;968
-A Wizard of Earthsea;Ursula K. Le Guin;Oomf, Inc.;1094-12-12;344;829
-The Warden;Anthony Trollope;Open Court Book;1256-12-04;513;262
-The Riddle of the Sands;Erskine Childers;Indiana University Press;1654-12-17;541;498
-Gormenghast;Mervyn Peake;Vintage Books at Random House (UK);1799-12-07;541;1003
-The Secret History;Donna Tartt;Athlone Books;1968-12-09;989;287
-Lookout cartridge;Joseph McElroy;Cookie statement;1725-12-20;147;151
-The Shell Seekers;Rosamunde Pilcher;Hrvatski;1322-12-13;142;931
-The BFG;Roald Dahl;Create account;1894-12-18;534;851
-One Day in the Life of Ivan Denisovich;Alexander Solzhenitsyn;Dover Publications;1179-12-10;137;1009
-The Heart of the Matter ;Graham Greene;Scholastic Inc.;1263-12-03;832;612
-Call it Sleep;Henry Roth;Overlook Press;1658-12-26;863;805
-Bonjour Tristesse;Françoise Sagan;Station Hill Press;1778-12-18;488;821
-Sophie's World;Jostein Gaarder;Create account;1057-12-02;444;499
-The Da Vinci Code;Dan Brown;Sun & Moon;1006-12-23;745;60
-The Sot-Weed Factor;John Barth;Arcade Publishing;1004-12-15;355;746
-Le Silence de La Mer;Vercors;Pantheon Books at Random House;1570-12-07;211;847
-Bridget Jones's Diary;Helen Fielding;Talk;1604-12-14;217;600
-Deliverance;James Dickey;Text is available under the Creative Commons Attribution/Share-Alike License and the GFDL additional terms may apply. See Terms of Use for details.;1339-12-26;950;439
-Genoa;Paul Metcalf;Princeton University Press;1922-12-13;246;781
-Snow Falling on Cedars;David Guterson;Stone Bridge Press;1866-12-14;136;156
-Fathers and Sons;Ivan Turgenev;Bloomsbury.com - Home page;1355-12-04;487;65
-A Wild Sheep Chase;Haruki Murakami;randomhouse.com (US);2009-12-04;677;586
-Point Counter Point;Aldous Huxley;Simple talk;1768-12-20;942;322
-Babbitt;Sinclair Lewis;Prometheus Books;1260-12-10;817;189
-The Souls of Black Folk;W. E. B. Du Bois;Princeton University Press;1815-12-06;252;963
-The Thirty-Nine Steps;John Buchan;SUNY Press;1583-12-05;214;1076
-The Jungle;Upton Sinclair;iBooks, Inc.;1265-12-21;417;349
-Under Satan's Sun;Georges Bernanos;Shanti Sadan Publications;1618-12-11;1061;441
-The Voyeur;Alain Robbe-Grillet;Vintage Books at Random House (UK);1777-12-07;272;566
-The Secret Agent;Joseph Conrad;New changes;1585-12-19;534;940
-All Quiet on the Western Front;Erich Maria Remarque;Upload file;1456-12-21;798;644
-Double or Nothing;Raymond Federman;Change source;1072-12-05;651;510
-The Bonfire of the Vanities;Tom Wolfe;Penguin UK;1045-12-07;1045;889
-The Phantom Tollbooth;Norton Juster;Dalkey Archive Press;1703-12-16;632;992
-Amers/Oiseaux/Poesie;Saint-John Perse;Permanent link;1731-12-12;907;418
-The House of the Spirits;Isabel Allende;CompanionGuides.com;1938-12-21;249;560
-Paradise Lost;John Milton;University of Toronto Medieval Texts;1710-12-19;157;449
-The Joke;Milan Kundera;Phoenix Press history reprints;1649-12-11;133;549
-The Wonderful Wizard of Oz;L. Frank Baum;Hesperus press;1949-12-23;79;510
-At Swim-Two-Birds ;Flann O'Brien;Twisted Spoon Press;1413-12-21;657;736
-Contempt;Alberto Moravia;Phaidon Press;1646-12-04;54;855
-Dealing with Dragons;Patricia C. Wrede;Welcome to Random House;1240-12-11;880;370
-Blood Meridian;Cormac McCarthy;Cambridge University Press;1865-12-17;531;896
-The Home and the World;Rabindranath Tagore;Phoenix Press history reprints;1866-12-14;934;404
-2001: A Space Odyssey;Arthur C. Clarke;Page for printing;1488-12-26;881;867
-American Pastoral;Philip Roth;Athlone Books;1865-12-11;838;783
-The Cannibal;John Hawkes;Borzoi Reader Classics;1946-12-18;810;586
-Matilda;Roald Dahl;Phoenix Press history reprints;1604-12-06;460;847
-The Thornbirds;Colleen McCullough;New Directions Publishing;1523-12-09;700;96
-The Murder of Roger Ackroyd;Agatha Christie;Johns Hopkins University Press;1055-12-15;263;196
-Good Night, Mr. Tom;Michelle Magorian;University of Nebraska Press;1367-12-03;1083;300
-Nadja;André Breton;Dedalus Books;1949-12-16;796;1061
-King Lear;William Shakespeare;Exact Change;1895-12-02;1010;132
-The Magnificent Ambersons;Booth Tarkington;Pathfinder Books;1785-12-18;703;680
-Othello;William Shakespeare;Mobile view;1165-12-05;1000;672
-Aurélien;Louis Aragon;Vintage (US);1169-12-11;26;721
-Hard-Boiled Wonderland and the End of the World;Haruki Murakami;Glas New Russian Writing;1325-12-22;401;358
-The Color of Water;James McBride;Harvill Press at Random House;1987-12-26;683;472
-Soulier De Satin;Paul Claudel;Stone Bridge Press;1967-12-24;732;61
-Leaves of Grass;Walt Whitman;Modern Library;1501-12-08;1114;196
-The Sonnets;William Shakespeare;Privacy policy;1236-12-17;878;593
-American Psycho;Bret Easton Ellis;Copper Canyon Press;1492-12-10;549;725
-The Bean Trees;Barbara Kingsolver;Prometheus Books;1638-12-21;339;937
-Nightwood;Djuna Barnes;Da Capo Press;1691-12-06;1042;356
-Raise High the Roof Beam, Carpenters and Seymour: An Introduction ;J. D. Salinger;Carcanet;1838-12-13;391;325
-High Fidelity;Nick Hornby;TASCHEN Books;1850-12-03;49;281
-Fear and Loathing in Las Vegas;Hunter S. Thompson;Bison Books;1864-12-11;738;431
-Kane and Abel;Jeffrey Archer;HarperCollins Publishers;1016-12-17;515;911
-Franny and Zooey ;J. D. Salinger;Penguin UK;1480-12-13;1029;364
-The Resistible Rise of Arturo Ui;Bertolt Brecht;Cite this page;1373-12-11;738;858
-Sense and Sensibility;Jane Austen;Kodansha;1793-12-17;246;168
-The Faraway Tree Stories;Enid Blyton;Northwestern University Press;1749-12-18;306;330
-Petersburg;Andrei Bely;Help;1106-12-24;949;793
-City of Glass;Paul Auster;Cite this page;1358-12-18;688;439
-Watchmen;Alan Moore;Oxford University Press - UK;1542-12-06;1042;981
-The Satanic Verses;Salman Rushdie;Harvard University Press;1425-12-19;693;238
-Libra;Don DeLillo;Help;1610-12-13;264;107
-Friday, or, The Other Island;Michel Tournier;Dover Publications;1585-12-07;910;920
-The Shadow of the Wind;Carlos Ruiz Zafón;Phaidon Press;1749-12-15;60;566
-Parade's End;Ford Madox Ford;Black Sparrow Books;1508-12-03;356;129
-The Pursuit of Love;Nancy Mitford;Harvill Press at Random House;1161-12-19;784;98
-Always Coming Home;Ursula K. Le Guin;Twisted Spoon Press;1517-12-16;560;132
-The Princesse de Cleves;Madame de La Fayette;Pathfinder Books;1743-12-26;960;893
-Naked Lunch;William S. Burroughs;Text is available under the Creative Commons Attribution/Share-Alike License and the GFDL additional terms may apply. See Terms of Use for details.;1784-12-13;346;832
-Black Beauty;Anna Sewell;Shambhala Publications;1729-12-19;479;487
-The Savage Detectives;Roberto Bolaño;TASCHEN Books;1460-12-05;316;337
-London Fields;Martin Amis;Smith and Kraus Publishers;1675-12-16;757;891
-Infinite Jest;David Foster Wallace;Cite this page;1645-12-13;573;73
-Artemis Fowl;Eoin Colfer;Creation Books;1807-12-06;522;807
-Les Vrilles de La Vigne;Colette;Not logged in;1927-12-18;418;304
-The Curious Incident of the Dog in the Night-Time;Mark Haddon;Oxford University Press - US;1403-12-05;865;207
-Zuleika Dobson;Max Beerbohm;Stone Bridge Press;1429-12-20;688;775
-Testament of Youth;Vera Brittain;About Wikipedia;1850-12-24;591;88
-Capital of Pain;Paul Eluard;Dover Publications;1082-12-11;980;631
-A Tree Grows in Brooklyn;Betty Smith;Contributions;1342-12-03;36;26
-Half of a Yellow Sun;Chimamanda Ngozi Adichie;Verso Books;1273-12-14;913;329
-A Good Man is Hard to Find and Other Stories;Flannery O'Connor;iBooks, Inc.;1048-12-11;644;388
-Martin Eden;Jack London;Log in;1600-12-02;660;728
-Red Harvest;Dashiell Hammett;W.W. Norton & Company;1949-12-11;526;1005
-Noughts & Crosses;Malorie Blackman;HarperCollins Publishers;1621-12-19;825;390
-The Leopard;Giuseppe Di Lampedusa;TASCHEN Books;1700-12-20;1123;1015
-The Alexandria Quartet;Lawrence Durrell;Contributions;1251-12-18;335;129
-The Ballad of the Salt Sea;Hugo Pratt;Continuum - Athlone;1642-12-04;184;1017
-What We Talk About When We Talk About Love;Raymond Carver;Page;1816-12-19;946;657
-Haroun and the Sea of Stories;Salman Rushdie;Harvill Press at Random House;1763-12-06;926;1012
-Writing Degree Zero;Roland Barthes;Privacy policy;1820-12-16;433;728
-Cane;Jean Toomer;Vintage (US);1752-12-17;897;1092
-The Lovely Bones ;Alice Sebold;Grove Press / Atlantic Monthly Press;1125-12-13;585;1002
-Tales of the City ;Armistead Maupin;Twisted Spoon Press;1399-12-17;840;841
-The Joy Luck Club;Amy Tan;Catbird Press;1643-12-25;1117;429
-Mort;Terry Pratchett;Pathfinder Books;1204-12-13;1087;587
-The Opposing Shore;Julien Gracq;Page information;1505-12-21;822;374
-The Order of Things: An Archaeology of the Human Sciences;Michel Foucault;Dalkey Archive Press;1605-12-26;868;293
-Riddley Walker;Russell Hoban;Wikidata item;1981-12-10;100;522
-Of Human Bondage;W. Somerset Maugham;Talk;1471-12-13;43;373
-Go in beauty;William Eastlake;HarperCollins Publishers;2002-12-12;611;951
-A Separate Peace;John Knowles;Farrar;1424-12-17;349;962
-The Quiet American;Graham Greene;Talk;1869-12-25;37;922
-Dracula;Bram Stoker;English;1788-12-24;531;890
-The Franchiser;Stanley Elkin;Schocken Books;1863-12-07;910;841
-Zen and the Art of Motorcycle Maintenance;Robert M. Pirsig;Grove Press / Atlantic Monthly Press;1757-12-20;45;871
-Enormous Changes at the Last Minute;Grace Paley;Read;1498-12-21;31;1031
-Guards! Guards!;Terry Pratchett;Wordsworth Editions Website;1300-12-02;59;483
-Ellen Foster;Kaye Gibbons;Interlink Publishing Online;1990-12-18;586;644
-A Room of One's Own;Virginia Woolf;Columbia University Press;1409-12-02;614;398
-Tinker, Tailor, Soldier, Spy;John le Carré;Penguin UK;1068-12-11;1091;1015
-Berlin Alexanderplatz;Alfred Döblin;View history;1852-12-24;430;428
-Cold Sassy Tree;Olive Ann Burns;Contributions;1953-12-21;901;138
-Look Homeward, Angel;Thomas Wolfe;Not logged in;1374-12-09;695;63
-The Martian Chronicles;Ray Bradbury;University of Toronto Medieval Texts;1828-12-04;1055;694
-Skinny Legs and All;Tom Robbins;Permanent link;1811-12-04;35;296
-Oliver Twist;Charles Dickens;Show any page;1416-12-05;673;346
-It   ;Stephen King;Schocken Books;2017-12-09;398;572
-A High Wind in Jamaica;Richard Hughes;Special pages;1144-12-05;974;614
-Cities of Salt;Abdelrahman Munif;Download as PDF;1489-12-26;185;892
-You Shall Know Our Velocity;Dave Eggers;Change;1599-12-15;818;377
-Le Ravissement de Lol V. Stein;Marguerite Duras;What links here;1499-12-18;373;382
-The Death of Artemio Cruz;Carlos Fuentes;University of Nebraska Press;1304-12-23;306;544
-The Power and the Glory;Graham Greene;Glas New Russian Writing;1919-12-13;352;302
-War and Remembrance;Herman Wouk;iBooks, Inc.;1959-12-14;856;313
-Baudolino;Umberto Eco;Station Hill Press;1610-12-05;95;609
-Dinner at the Homesick Restaurant;Anne Tyler;Da Capo Press;1686-12-24;416;66
-The age of wire and string;Ben Marcus;Inpress Books UK;1180-12-15;672;577
-The Sorrows of Young Werther;Johann Wolfgang von Goethe;Help;1561-12-15;997;94
-Where the Wild Things Are;Maurice Sendak;Prometheus Books;1242-12-20;342;373
-Night Watch;Terry Pratchett;Cookie statement;1117-12-17;313;493
-Tropismes;Nathalie Sarraute;TASCHEN Books;1960-12-06;962;685
-Tlooth;Harry Mathews;Cambridge University Press;1234-12-21;580;499
-The Godfather;Mario Puzo;Publishing;1463-12-18;831;571
-Been Down So Long It Looks Like Up to Me;Richard Fariña;Permanent link;1973-12-22;85;531
-Pricksongs & descants;Robert Coover;HarperCollins Publishers;1977-12-02;151;203
-Waiting for the Mahatma;R. K. Narayan;Ardis Books Homepage;1577-12-18;790;999
-The Journal of Jules Renard;Jules Renard;Penguin UK;1874-12-20;514;432
-Notes from a small island;Bill Bryson;The New Press;1300-12-24;840;982
-Centennial;James A. Michener;View history;1519-12-21;372;654
-the man in the high castle;Philip K. Dick;Schocken Books;1973-12-03;1013;742
-The Last Chronicle of Barset;Anthony Trollope;Open Court Book;1478-12-14;141;820
-Night;Elie Wiesel;Random House UK;1112-12-07;968;305
-The Pickwick Papers;Charles Dickens;iBooks, Inc.;1104-12-26;762;435
-Écrits;Jacques Lacan;Lists;1730-12-23;753;388
-Silent Spring;Rachel Carson;Bloodaxe Books;1711-12-07;83;261
-Jayber Crow;Wendell Berry;Carroll and Graf;1231-12-11;1048;500
-Mrs Palfrey at the Claremont;Elizabeth Taylor;Penguin Classics;1422-12-20;468;909
-The road from Coorain;Jill Ker Conway;Simple start;1403-12-16;389;985
-The Theater and Its Double;Antonin Artaud;Stanford University Press;1498-12-07;849;512
-The Three Musketeers;Alexandre Dumas;HarperCollins Publishers;1988-12-10;438;1100
-The Autobiography of Alice B. Toklas;Gertrude Stein;New changes;1599-12-02;856;865
-Little, Big;John Crowley;Stone Bridge Press;1631-12-10;357;191
-Manhattan Transfer;John Dos Passos;Change;1261-12-23;699;877
-A Brief History of Time;Stephen Hawking;Vintage (US);1494-12-06;588;703
-Candide;Voltaire;Hackett;1018-12-12;924;435
-The Sheltering Sky;Paul Bowles;Page for printing;1754-12-09;948;386
-Popol Vuh;Anonymous;Tuttle Publishing;1255-12-23;804;42
-Time and Again;Jack Finney;Black Sparrow Books;1929-12-20;487;894
-Moravagine;Blaise Cendrars;Help;1069-12-19;524;1035
-The Left Hand of Darkness;Ursula K. Le Guin;Change source;1312-12-24;166;854
-Double Act;Jacqueline Wilson;Page information;1312-12-23;1084;914
-James and the Giant Peach;Roald Dahl;Indiana University Press;1913-12-03;639;1058
-The Bottle Factory Outing;Beryl Bainbridge;Disclaimers;1532-12-06;591;103
-Cloud Atlas;David Mitchell;Phaidon Press;1619-12-07;570;1106
-The Tunnel;William H. Gass;Northwestern University Press;1070-12-26;1012;834
-The Merry Adventures of Robin Hood;Howard Pyle;University of California Press Books;1982-12-12;564;390
-The Twits;Roald Dahl;Tuttle Publishing;1411-12-19;305;170
-The General of the Dead Army;Ismail Kadare;Disclaimers;1176-12-20;1038;351
-Omensetter's Luck;William H. Gass;Change;1910-12-19;142;794
-The Razor's Edge;W. Somerset Maugham;MIT Press;1968-12-11;69;120
-I Capture the Castle;Dodie Smith;City Lights Publishers;1902-12-09;1039;909
-Oblomov;Ivan Goncharov;Duckworth Online;1074-12-05;1016;342
-O Pioneers!;Willa Cather;University of Minnesota Press;1646-12-02;179;1034
-Delia Smith's Complete Cookery Course;Delia Smith;Bloomsbury.com - Home page;1677-12-20;703;163
-Romancero Gitano;Federico García Lorca;Simple talk;1324-12-06;859;729
-Holes;Louis Sachar;Catbird Press;1331-12-05;840;603
-Under the Net;Iris Murdoch;This page was last changed on 21 June 2013, at 01:36.;1997-12-11;597;37
-Darconville's Cat ;Alexander Theroux;Page for printing;1799-12-07;400;901
-Waverley;Walter Scott;Verso Books;1041-12-20;626;387
-Maigret and the Enigmatic Letter;Georges Simenon;University of California Press Books;1364-12-25;534;395
-The Death of the Heart;Elizabeth Bowen;Pantheon Books at Random House;1108-12-16;501;920
-An evil cradling;Brian Keenan;Carroll and Graf;1818-12-05;1020;178
-Our Lady of the Flowers;Jean Genet;Harvill Press at Random House;1401-12-04;631;779
-Up;Ronald Sukenick;Picador UK;1481-12-05;804;677
-A Fine Balance;Rohinton Mistry;Make a book;1099-12-10;870;625
-The Interpretation of Dreams;Sigmund Freud;Oomf, Inc.;1090-12-15;1058;729
-Down and out in Paris and London;George Orwell;Privacy policy;1688-12-07;519;66
-Yellow Back Radio Broke-Down;Ishmael Reed;Godine Publishing;1468-12-20;195;511
-Lanark;Alasdair Gray;Marion Boyars Online;1541-12-09;807;566
-Vicky Angel;Jacqueline Wilson;Verso Books;1508-12-13;255;296
-Nine Stories;J. D. Salinger;Borzoi Reader Classics;1223-12-22;753;326
-Fureur Et Mystere;René Char;Columbia University Press;1319-12-24;516;383
-The Bostonians;Henry James;What links here;1612-12-21;175;323
-The Old Wives' Tale;Arnold Bennett;Make a book;1235-12-06;238;914
-Drown;Junot Diaz;Main page;1204-12-02;490;820
-The Education of Henry Adams;Henry Adams;Modern Library;1907-12-22;847;137
-The Betrothed;Alessandro Manzoni;Northwestern University Press;1485-12-13;928;912
-The Last of the Mohicans;James Fenimore Cooper;Text is available under the Creative Commons Attribution/Share-Alike License and the GFDL additional terms may apply. See Terms of Use for details.;1497-12-20;893;47
-The Five People You Meet in Heaven;Mitch Albom;Open Court Book;1104-12-16;72;99
-Quotations from Chairman Mao Tse-Tung;Mao Tse-Tung;Carcanet;1209-12-26;676;926
-Eugene Onegin;Alexander Pushkin;Download as PDF;1135-12-03;986;78
-You Bright & Risen Angels ;William Vollmann;Dalkey Archive Press;1230-12-22;68;580
-The Alienist;Caleb Carr;Kodansha;1112-12-25;403;668
-Uncle Tom's Cabin;Harriet Beecher Stowe;Read;2002-12-08;804;672
-The Adventures of Sherlock Holmes ;Sir Arthur Conan Doyle;Stanford University Press;1176-12-22;423;914
-The Periodic Table;Primo Levi;Verso Books;1024-12-05;439;1024
-Magician;Raymond E. Feist;University of Chicago Press;1542-12-23;835;503
-Talk Before Sleep;Elizabeth Berg;Pan Macmillan;2002-12-04;133;191
-Loving;Henry Green;Change;1779-12-20;138;288
-No Orchids for Miss Blandish;James Hadley Chase;Dover Publications;1357-12-19;825;449
-The Varieties of Religious Experience;William James;Central European University Press;1262-12-04;189;358
-The Secret of the Swordfish;Edgar P. Jacobs;University of California Press Books;1544-12-02;622;1071
-Money;Martin Amis;Shanti Sadan Publications;1848-12-14;536;1044
-The Universal Baseball Association, inc.;Robert Coover;Developers;1204-12-26;702;874
-Creamy and Delicious;Steve Katz;MIT Press;1675-12-25;325;450
-Tobacco Road;Erskine Caldwell;Creation Books;1427-12-04;1061;446
-The Notebooks of Malte Laurids Brigge;Rainer Maria Rilke;Change source;1464-12-20;790;481
-The Selfish Gene;Richard Dawkins;Anvil Press Poetry;1679-12-06;223;997
-The Blue Sword;Robin McKinley;Anvil Press Poetry;1155-12-11;711;257
-An Artist of the Floating World;Kazuo Ishiguro;Vintage (US);1910-12-18;898;370
-This Side of Paradise;F. Scott Fitzgerald;Paulist Press;1191-12-14;477;637
-Rubyfruit Jungle;Rita Mae Brown;Farrar;1437-12-11;467;60
-Jurassic Park;Michael Crichton;Read;1665-12-09;523;30
-La Modification;Michel Butor;Stanford University Press;1261-12-12;44;902
-The General Theory of Employment, Interest and Money;John Maynard Keynes;Page information;1232-12-06;507;274
-The Clan of the Cave Bear;Jean M. Auel;Malton House Press;1803-12-09;99;296
-The Colour of Magic;Terry Pratchett;Contributions;1478-12-05;646;445
-More Than Human;Theodore Sturgeon;Zephyr Press;1632-12-02;435;360
-The Origins of Totalitarianism;Hannah Arendt;Penguin Classics;1496-12-24;598;187
-The Book of Laughter and Forgetting;Milan Kundera;Ivan R. Dee;1363-12-11;936;804
-The Prince of Tides;Pat Conroy;Mobile view;1065-12-23;765;878
-The Alchemist;Paulo Coelho;Stanford University Press;1716-12-05;967;957
-Goodbye to All That ;Robert Graves;University of California Press Books;1946-12-26;928;1013
-Cry, the Beloved Country;Alan Paton;Phaidon Press;1172-12-12;1011;160
-Mulligan Stew;Gilbert Sorrentino;Oxford University Press - US;1911-12-21;823;851
-L. A. Confidential;James Ellroy;Harvard University Press;1318-12-12;132;102
-The Affluent Society;John Kenneth Galbraith;Wisdom Publications;1674-12-22;1071;501
-The Rosy Crucifixion;Henry Miller;Station Hill Press;1970-12-07;969;558
-Katherine;Anya Seton;Picador USA;1315-12-05;425;349
-A Little Princess;Frances Hodgson Burnett;Station Hill Press;1486-12-19;901;1106
-The Beautiful and Damned;F. Scott Fitzgerald;Yale University Press;1578-12-11;778;222
-Wise Children;Angela Carter;Methuen;1610-12-11;322;284
-The Arabian Nights: Tales from a Thousand and One Nights;Richard Burton;Stone Bridge Press;1281-12-02;132;403
-A People's History of the United States;Howard Zinn;Cambridge University Press;1231-12-17;532;920
-The Van;Roddy Doyle;Glas New Russian Writing;1556-12-04;413;630
-The Good Soldier Svejk;Jaroslav Hasek;Permanent link;1902-12-04;571;853
-The Autobiography of Malcolm X;Malcolm X;Make a book;1518-12-23;1110;357
-Easy Travel to Other Planets;Ted Mooney;Black Sparrow Books;1772-12-04;415;148
-The Postman Always Rings Twice;James M. Cain;Hackett;1032-12-20;939;832
-Where Angels Fear to Tread;E. M. Forster;Wordsworth Editions Website;1545-12-16;189;940
-Sometimes a Great Notion;Ken Kesey;Basic Books;1884-12-06;104;1045
-Gaston, tome 1;André Franquin;randomhouse.com (US);1174-12-11;409;695
-Tours of the Black Clock;Steve Erickson;Pantheon Books at Random House;1492-12-03;515;316
-Girls in Love;Jacqueline Wilson;Page;1558-12-03;537;401
-Earthly Powers;Anthony Burgess;Contributions;1549-12-15;863;1119
-Eminent Victorians;Lytton Strachey;Thames & Hudson (USA);1499-12-05;924;1098
-The Ginger Man;J. P. Donleavy;W.W. Norton & Company;1910-12-02;1007;1063
-Hawaii;James A. Michener;Oxford University Press - US;1865-12-05;330;434
-In Memoriam to Identity;Kathy Acker;Stanford University Press;1487-12-14;777;801
-The Princess Diaries;Meg Cabot;Modern Library;1930-12-15;272;43
-The Second World War;Winston S. Churchill;Kessinger Publishing;1754-12-06;469;612
-The Education of Little Tree;Forrest Carter;Lists;1910-12-08;753;611
-The Horse Whisperer;Nicholas Evans;Arcade Publishing;1219-12-25;226;630
-Hogg;Samuel R. Delany;NYRB Classics;1284-12-12;292;256
+The Great Gatsby;F. Scott Fitzgerald;Interlink Publishing Online;1697-12-08;417;1063.0
+The Grapes of Wrath;John Steinbeck;Steerforth Press;1385-12-12;1014;604.0
+Catch-22;Joseph Heller;Northwestern University Press;1186-12-05;676;831.0
+The Catcher in the Rye;J. D. Salinger;Indiana University Press;1903-12-15;356;927.0
+Beloved;Toni Morrison;Creation Books;1270-12-06;118;836.0
+The Sound and the Fury;William Faulkner;English;1488-12-19;40;313.0
+To Kill a Mockingbird  ;Harper Lee;Page information;1278-12-17;488;404.0
+The Lord of the Rings;J. R. R. Tolkien;Wikidata item;1282-12-02;804;170.0
+One Hundred Years of Solitude;Gabriel García Márquez;Simple talk;1224-12-24;159;717.0
+Brave New World;Aldous Huxley;Disclaimers;1732-12-02;134;882.0
+To the Lighthouse;Virginia Woolf;Paulist Press;1700-12-02;613;628.0
+Invisible Man;Ralph Ellison;Penguin Classics;1752-12-17;845;422.0
+Gone with the Wind ;Margaret Mitchell;Atlas Press;1307-12-03;357;588.0
+Jane Eyre;Charlotte Brontë;Show any page;1641-12-17;697;764.0
+On the Road;Jack Kerouac;Harvard University Press;1930-12-24;911;952.0
+Pride and Prejudice;Jane Austen;University of Chicago Press;1962-12-06;745;941.0
+Lord of the Flies;William Golding;MIT Press;1408-12-05;847;790.0
+Middlemarch;George Eliot;Welcome to Random House;1101-12-09;927;289.0
+Anna Karenina;Leo Tolstoy;Developers;1672-12-02;310;376.0
+Animal Farm;George Orwell;Central European University Press;1495-12-22;862;259.0
+A Passage to India;E. M. Forster;Thames & Hudson (USA);1163-12-25;585;283.0
+In Search of Lost Time;Marcel Proust;Godine Publishing;1113-12-23;309;637.0
+Wuthering Heights;Emily Brontë;Ivan R. Dee;1864-12-18;862;899.0
+The Chronicles of Narnia;C. S. Lewis;Harvard University Press;1089-12-07;951;1088.0
+The Color Purple;Alice Walker;Northwestern University Press;1594-12-09;833;851.0
+Midnight's Children;Salman Rushdie;Vintage Books at Random House (UK);1988-12-05;232;855.0
+A Portrait of the Artist as a Young Man;James Joyce;Harvard University Press;1795-12-19;879;858.0
+Winnie-the-Pooh;A. A. Milne;Open Court Book;1591-12-08;691;649.0
+Heart of Darkness;Joseph Conrad;Upload file;1937-12-12;563;87.0
+Mrs Dalloway;Virginia Woolf;Hesperus press;1219-12-15;1006;924.0
+Slaughterhouse-Five;Kurt Vonnegut;Tuttle Publishing;1544-12-23;1029;753.0
+War and Peace;Leo Tolstoy;Atlas Press;1414-12-19;576;779.0
+Of Mice and Men;John Steinbeck;Dover Publications;1261-12-04;1117;961.0
+Moby-Dick;Herman Melville;Show any page;1094-12-25;1025;406.0
+Little Women ;Louisa May Alcott;Text is available under the Creative Commons Attribution/Share-Alike License and the GFDL additional terms may apply. See Terms of Use for details.;1830-12-12;207;273.0
+Native Son;Richard Wright;Mobile view;2016-12-07;960;263.0
+The Hitchhiker's Guide to the Galaxy;Douglas Adams;University of California Press Books;1823-12-15;592;548.0
+Great Expectations;Charles Dickens;Wordsworth Editions Website;1295-12-18;290;732.0
+The Sun Also Rises;Ernest Hemingway;Hackett;1428-12-15;1011;305.0
+Rebecca;Daphne du Maurier;Enable previews;1646-12-03;1098;107.0
+The Stranger;Albert Camus;University of California Press Books;1808-12-13;430;815.0
+Alice's Adventures in Wonderland and Through the Looking Glass;Lewis Carroll;Copper Canyon Press;1282-12-10;415;395.0
+For Whom the Bell Tolls;Ernest Hemingway;Download as PDF;1072-12-21;468;218.0
+The Hobbit;J. R. R. Tolkien;Duckworth Online;1430-12-10;594;654.0
+Madame Bovary;Gustave Flaubert;Godine Publishing;1560-12-11;58;881.0
+The Wind in the Willows;Kenneth Grahame;About Wikipedia;1145-12-05;788;320.0
+The Handmaid’s Tale;Margaret Atwood;Thames & Hudson (UK);1693-12-03;260;1085.0
+Tess of the D'Urbervilles;Thomas Hardy;Penguin Classics;1783-12-13;374;52.0
+Their Eyes Were Watching God;Zora Neale Hurston;Atlas Press;1360-12-23;935;370.0
+A Prayer for Owen Meany;John Irving;randomhouse.com (US);1511-12-21;207;28.0
+Emma  ;Jane Austen;Penguin Classics;1645-12-24;534;282.0
+David Copperfield;Charles Dickens;Pan Macmillan;1205-12-02;745;283.0
+The Portrait of a Lady;Henry James;Read;1476-12-12;632;383.0
+The Trial ;Franz Kafka;Continuum - Athlone;1184-12-05;1009;225.0
+Crime and Punishment;Fyodor Dostoyevsky;What links here;1003-12-10;1006;558.0
+A Clockwork Orange;Anthony Burgess;Main page;1916-12-12;1031;596.0
+The Age of Innocence;Edith Wharton;Disclaimers;1386-12-02;899;521.0
+Don Quixote;Miguel de Cervantes;Page for printing;1728-12-04;663;1045.0
+As I Lay Dying;William Faulkner;Da Capo Press;1817-12-14;480;593.0
+His Dark Materials;Philip Pullman;Prometheus Books;1068-12-20;585;441.0
+Brideshead Revisited;Evelyn Waugh;University of Nebraska Press;1274-12-16;649;228.0
+The Golden Notebook;Doris Lessing;Dover Publications;1211-12-23;94;748.0
+Adventures of Huckleberry Finn;Mark Twain;Bison Books;1094-12-26;834;1086.0
+Things Fall Apart;Chinua Achebe;Create account;1515-12-04;928;1061.0
+Tom Jones;Henry Fielding;View history;1974-12-02;84;385.0
+Harry Potter and the Philosopher's Stone;J. K. Rowling;Belknap Press of Harvard University Press;1856-12-25;1115;513.0
+Song of Solomon;Toni Morrison;Wisdom Publications;1035-12-08;843;62.0
+Molloy Malone Dies; The Unnamable;Samuel Beckett;1317-12-19;548;925.0
+Finnegans Wake;James Joyce;Paulist Press;1076-12-11;860;210.0
+Absalom, Absalom!;William Faulkner;University of Nebraska Press;1629-12-26;820;244.0
+The Life and Opinions of Tristram Shandy, Gentleman;Laurence Sterne;Yale University Press;1665-12-18;596;896.0
+Charlotte's Web;E. B. White;Smith and Kraus Publishers;1204-12-15;1028;259.0
+The Ambassadors;Henry James;W.W. Norton & Company;1135-12-08;1025;620.0
+Sons and Lovers;D. H. Lawrence;University of Toronto Medieval Texts;1343-12-07;244;597.0
+A Farewell to Arms;Ernest Hemingway;Scholastic Inc.;1028-12-12;986;404.0
+Women in Love;D. H. Lawrence;Station Hill Press;1821-12-04;194;153.0
+Birdsong;Sebastian Faulks;Page for printing;1326-12-05;549;906.0
+Gulliver's travels;Jonathan Swift;Page for printing;1928-12-14;813;883.0
+Watership Down;Richard Adams;Open Court;1723-12-25;113;312.0
+Gravity's Rainbow;Thomas Pynchon;Counterpoint Press;1576-12-21;161;446.0
+Frankenstein  ;Mary Shelley;Make a book;1479-12-03;388;1054.0
+Clarissa: Or the History of a Young Lady;Samuel Richardson;Picador UK;1213-12-14;336;507.0
+The Old Man and the Sea ;Ernest Hemingway;Picador UK;1446-12-06;122;369.0
+Dune;Frank Herbert;Glas New Russian Writing;1203-12-02;609;139.0
+The Life and Adventures of Robinson Crusoe;Daniel Defoe;Da Capo Press;1402-12-03;399;101.0
+Go Tell It on the Mountain;James Baldwin;Copper Canyon Press;1324-12-26;123;247.0
+All the King's Men;Robert Penn Warren;Ardis Books Homepage;1973-12-06;929;194.0
+The Magic Mountain;Thomas Mann;Phaidon Press;1779-12-02;640;130.0
+The Call of the Wild;Jack London;Pimlico Books at Random House;1936-12-18;386;350.0
+The Tin Drum;Günter Grass;Athlone Books;1583-12-02;648;26.0
+The 42nd Parallel;John Dos Passos;Page information;1816-12-26;630;463.0
+Under the Volcano;Malcolm Lowry;Cookie statement;1276-12-18;764;662.0
+Disgrace;J. M. Coetzee;Give to Wikipedia;1206-12-24;558;569.0
+The Diary of a Young Girl;Anne Frank;Counterpoint Press;1237-12-19;1105;734.0
+Bleak House;Charles Dickens;Farrar;1972-12-03;579;1058.0
+Light in August;William Faulkner;Pimlico Books at Random House;1509-12-22;140;137.0
+The Scarlet Letter;Nathaniel Hawthorne;Show any page;1101-12-25;1093;191.0
+Pale Fire;Vladimir Nabokov;Kessinger Publishing;1499-12-14;99;478.0
+Captain Corelli's Mandolin;Louis de Bernières;Indiana University Press;1042-12-04;192;1026.0
+Howards End;E. M. Forster;Mobile view;1743-12-10;272;447.0
+The Heart is A Lonely Hunter;Carson McCullers;Continuum - Athlone;1846-12-14;198;469.0
+Vanity Fair;William Makepeace Thackeray;Bloodaxe Books;1883-12-18;995;337.0
+Commedia;Dante Alighieri;Ardis Books Homepage;1407-12-17;907;736.0
+The Count of Monte Cristo;Alexandre Dumas;Bison Books;1226-12-10;783;669.0
+An American Tragedy;Theodore Dreiser;Thames & Hudson (USA);1673-12-25;1002;715.0
+White Noise;Don DeLillo;Arcade Publishing;1995-12-23;244;731.0
+The World According to Garp;John Irving;Related changes;1729-12-22;1053;1032.0
+Atonement;Ian McEwan;Carroll and Graf;1265-12-20;416;1064.0
+Nostromo;Joseph Conrad;Disclaimers;1252-12-08;938;326.0
+The House of Mirth ;Edith Wharton;Talk;1948-12-14;803;605.0
+The Brothers Karamazov;Fyodor Dostoevsky;Johns Hopkins University Press;1448-12-21;1034;528.0
+The Good Soldier;Ford Madox Ford;Anvil Press Poetry;1276-12-24;139;662.0
+The Name of the Rose ;Umberto Eco;Ediciones Altovolta;1381-12-09;641;741.0
+The Shipping News;Annie Proulx;Hesperus press;1614-12-05;807;87.0
+The Woman in White;Wilkie Collins;Station Hill Press;1349-12-18;686;647.0
+Herzog;Saul Bellow;Read;1480-12-13;31;1074.0
+The Counterfeiters;Andre Gide;Stanford University Press;2003-12-05;713;928.0
+My Ántonia;Willa Cather;Shanti Sadan Publications;1848-12-13;841;658.0
+Scoop;Evelyn Waugh;Verso Books;1537-12-04;289;490.0
+A Room with a View;E. M. Forster;Ediciones Altovolta;1329-12-18;945;893.0
+Bible: King James Version;KJV;Exact Change;1649-12-24;736;201.0
+Wide Sargasso Sea;Jean Rhys;Athlone Books;1085-12-10;725;496.0
+Love in The Time of Cholera;Gabriel García Márquez;Cambridge University Press;1584-12-13;647;172.0
+The Remains of the day;Kazuo Ishiguro;Cookie statement;1090-12-08;1041;173.0
+The Big Sleep;Raymond Chandler;Scholastic Inc.;1489-12-19;410;818.0
+I, Claudius;Robert Graves;Thames & Hudson (USA);1635-12-14;767;333.0
+Tropic of Cancer;Henry Miller;Developers;1707-12-05;646;1110.0
+Tender is the Night;F. Scott Fitzgerald;Inpress Books UK;1953-12-14;180;651.0
+Journey to the End of the Night;Louis-Ferdinand Céline;Talk;1062-12-25;1050;42.0
+The War of the Worlds;H. G. Wells;Penguin Group (USA);1842-12-06;212;86.0
+A Suitable Boy;Vikram Seth;Cookie statement;1651-12-08;407;830.0
+Possession;A.S. Byatt;Johns Hopkins University Press;1573-12-26;1081;56.0
+A Confederacy of Dunces;John Kennedy Toole;Belknap Press of Harvard University Press;1278-12-20;248;337.0
+The Bell Jar;Sylvia Plath;Publishing;1405-12-26;948;528.0
+Waiting for Godot;Samuel Beckett;Inpress Books UK;1255-12-14;326;144.0
+The Brief Wondrous Life of Oscar Wao;Junot Diaz;Oxford University Press - UK;1896-12-05;476;787.0
+Being and Nothingness;Jean-Paul Sartre;Oxford University Press - US;1734-12-19;38;269.0
+A Thousand Acres;Jane Smiley;Modern Library;1466-12-15;338;921.0
+The Amazing Adventures of Kavalier and Clay;Michael Chabon;University of Minnesota Press;1417-12-06;935;795.0
+The Gulag Archipelago, 1918-1956: An Experiment in Literary Investigation;Aleksandr Solzhenitsyn;Welcome to Random House;1691-12-13;554;143.0
+Charlie and the Chocolate Factory ;Roald Dahl;University of Nebraska Press;1695-12-03;1069;699.0
+Lady Chatterley's Lover;D. H. Lawrence;English;1889-12-26;1114;622.0
+JR;William Gaddis;Johns Hopkins University Press;1369-12-19;631;622.0
+The Histories;Herodotus;Disclaimers;1742-12-21;622;311.0
+Doctor Zhivago;Boris Pasternak;randomhouse.com (US);1724-12-23;778;697.0
+Lucky Jim;Kingsley Amis;Give to Wikipedia;1177-12-22;177;384.0
+Underworld;Don DeLillo;Show any page;1057-12-10;809;516.0
+If on a Winter's Night a Traveler;Italo Calvino;City Lights Publishers;1629-12-15;721;780.0
+Life;Georges Perec;Make a book;1244-12-18;867;85.0
+The Master and Margarita;Mikhail Bulgakov;Dalkey Archive Press;1575-12-12;716;835.0
+The Good Earth;Pearl S. Buck;Thames & Hudson (UK);1859-12-19;315;465.0
+Henderson the Rain King;Saul Bellow;Marion Boyars Online;1777-12-24;56;156.0
+Ironweed;William J. Kennedy;English;1277-12-16;348;436.0
+Persuasion;Jane Austen;Pimlico Books at Random House;1965-12-16;783;684.0
+The Rainbow;D. H. Lawrence;English;1430-12-26;572;919.0
+A Dance to the Music of Time;Anthony Powell;Cambridge University Press;1956-12-07;122;351.0
+The Unbearable Lightness of Being;Milan Kundera;Kessinger Publishing;1745-12-17;956;930.0
+Kim;Rudyard Kipling;Belknap Press of Harvard University Press;1661-12-15;201;498.0
+Brighton Rock;Graham Greene;Counterpoint Press;1506-12-18;247;394.0
+One Flew Over the Cuckoo's Nest;Ken Kesey;Hesperus press;1182-12-13;732;160.0
+The Adventures of Augie March;Saul Bellow;Upload file;1003-12-14;1018;507.0
+A Bend in the River;V. S. Naipaul;Da Capo Press;1608-12-11;72;939.0
+The Hound of the Baskervilles;Sir Arthur Conan Doyle;Princeton University Press;1789-12-20;1104;387.0
+Housekeeping;Marilynne Robinson;Page;1821-12-21;501;905.0
+Sophie's Choice ;William Styron;Duckworth Online;1233-12-15;79;96.0
+Ethan Frome ;Edith Wharton;Thames & Hudson (USA);1625-12-06;453;504.0
+Buddenbrooks;Thomas Mann;Related changes;1683-12-24;89;75.0
+Thérèse Desqueyroux;François Mauriac;Methuen;1892-12-26;650;354.0
+The Killer Angels;Michael Shaara;Kodansha;1914-12-23;722;400.0
+Anne of Green Gables ;L. M. Montgomery;University of Nebraska Press;1143-12-15;955;128.0
+If This Is a Man and The Truce;Primo Levi;Zephyr Press;1925-12-26;118;64.0
+The bridge of San Luis Rey;Thornton Wilder;Cookie statement;1643-12-06;687;92.0
+A Moveable Feast;Ernest Hemingway;Log in;1237-12-20;786;280.0
+Dubliners;James Joyce;Routledge;1193-12-11;942;56.0
+Ficciones;Jorge Luis Borges;Prometheus Books;1705-12-22;141;505.0
+Schindler's List;Thomas Keneally;Stanford University Press;1158-12-10;658;1010.0
+The Prime of Miss Jean Brodie;Muriel Spark;University of Nebraska Press;1205-12-15;1037;156.0
+Strange Case of Dr. Jekyll and Mr. Hyde ;Robert Louis Stevenson;Make a book;1909-12-05;1091;43.0
+Far from the Madding Crowd;Thomas Hardy;Wisdom Publications;1646-12-10;284;313.0
+Gilead;Marilynne Robinson;Hesperus press;1098-12-15;311;886.0
+Nausea;Jean-Paul Sartre;Welcome to Random House;1302-12-12;281;772.0
+The Wings of the Dove;Henry James;Welcome to Random House;1037-12-13;367;398.0
+The Little Prince;Antoine de Saint-Exupéry;Help;1692-12-26;344;887.0
+The Red Badge of Courage;Stephen Crane;Phaidon Press;1645-12-18;400;370.0
+The Odyssey;Homer;Detritus.com;1615-12-09;538;866.0
+Memoirs of a Geisha;Arthur Golden;Developers;1050-12-20;562;363.0
+Men Without Women;Ernest Hemingway;Steerforth Press;1885-12-26;293;153.0
+The Tale of Genji;Murasaki Shikibu;Permanent link;1885-12-11;715;789.0
+Cannery Row;John Steinbeck;What links here;1976-12-05;352;224.0
+Life of Pi;Yann Martel;Talk;1191-12-09;26;565.0
+In Our Time;Ernest Hemingway;Belknap Press of Harvard University Press;1983-12-21;240;696.0
+The Pilgrim's Progress;John Bunyan;Page;1653-12-05;47;718.0
+Jude the Obscure;Thomas Hardy;Change;1643-12-25;742;61.0
+Breakfast of Champions;Kurt Vonnegut;English;1424-12-16;36;923.0
+Six Characters in Search of an Author;Luigi Pirandello;Harvard University Press;1468-12-18;883;711.0
+The Day of the Locust;Nathanael West;Dover Publications;1031-12-06;1064;159.0
+The Stand;Stephen King;Da Capo Press;1149-12-26;649;610.0
+Austerlitz;W.G. Sebald;About Wikipedia;1489-12-09;996;706.0
+Cat's Cradle;Kurt Vonnegut;Wordsworth Editions Website;1678-12-02;694;1006.0
+The Public Burning;Robert Coover;Scholastic Inc.;1716-12-02;570;879.0
+Harry Potter and the Goblet of Fire;J. K. Rowling;Steerforth Press;1990-12-02;821;300.0
+The Wind-Up Bird Chronicle;Haruki Murakami;HarperCollins Publishers;1302-12-20;585;47.0
+Man's Fate;Andre Malraux;Main page;1514-12-15;787;576.0
+Jazz;Toni Morrison;Harvard University Press;1220-12-21;230;148.0
+Dead Souls ;Nikolai Gogol;Main page;1620-12-08;133;517.0
+Rabbit, Run;John Updike;Cookie statement;1854-12-22;493;1062.0
+The Complete Stories;Flannery O'Connor;Detritus.com;1576-12-20;483;169.0
+The Making of Americans;Gertrude Stein;Central European University Press;1319-12-17;904;471.0
+Crash;J. G. Ballard;iBooks, Inc.;1284-12-07;757;1050.0
+The Glass Bead Game;Hermann Hesse;Marion Boyars Online;1978-12-15;108;393.0
+Darkness at Noon;Arthur Koestler;Enable previews;1660-12-15;256;394.0
+The Plague;Albert Camus;Carcanet;1015-12-26;787;543.0
+The Soft Machine;William S. Burroughs;Schocken Books;1681-12-20;516;773.0
+Les Liaisons Dangereuses;Pierre Choderlos de Laclos;Inpress Books UK;1971-12-02;446;468.0
+The Wanderer;Alain-Fournier;Pan Macmillan;1265-12-02;904;883.0
+Winesburg, Ohio;Sherwood Anderson;Publishing;1021-12-14;986;190.0
+Froth on the Daydream;Boris Vian;Read;1496-12-10;730;614.0
+Trainspotting;Irvine Welsh;Northwestern University Press;1386-12-15;1013;1094.0
+The Moviegoer;Walker Percy;Disclaimers;1458-12-12;933;743.0
+The Canterbury Tales;Geoffrey Chaucer;Black Sparrow Books;1071-12-17;700;412.0
+Main Street;Sinclair Lewis;Thames & Hudson (USA);1580-12-15;64;251.0
+Take It or Leave It;Raymond Federman;Lists;1752-12-02;89;453.0
+Wild Swans: Three Daughters of China;Jung Chang;Smith and Kraus Publishers;1269-12-05;182;109.0
+Nightmare Abbey;Thomas Love Peacock;English;1344-12-06;231;1115.0
+My Name is Red;Orhan Pamuk;University of Chicago Press;1972-12-21;365;345.0
+The Second Sex ;Simone de Beauvoir;iBooks, Inc.;1122-12-26;704;931.0
+The Awakening;Kate Chopin;Zephyr Press;1897-12-23;537;288.0
+From Here to Eternity;James Jones;Central European University Press;1585-12-14;330;797.0
+The Black Sheep;Honoré de Balzac;Black Sparrow Books;1831-12-04;1115;740.0
+The Man Without Qualities;Robert Musil;HarperCollins Publishers;1219-12-13;38;429.0
+The Way of All Flesh;Samuel Butler;Basic Books;1173-12-12;725;53.0
+The Wapshot Chronicle;John Cheever;HarperCollins Publishers;1017-12-25;530;684.0
+Going native;Stephen Wright;Tuttle Publishing;1897-12-11;1052;872.0
+The Charterhouse of Parma;Stendhal;Talk;1806-12-12;954;444.0
+The Lost Honor of Katharina Blum;Heinrich Böll;Shambhala Publications;1827-12-23;314;285.0
+The Complete Works of William Shakespeare   ;William Shakespeare;Indiana University Press;1117-12-07;859;170.0
+The Cairo Trilogy: Palace Walk, Palace of Desire, Sugar Street;Naguib Mahfouz;Dedalus Books;1324-12-18;299;132.0
+Stranger in a Strange Land;Robert A. Heinlein;Upload file;1575-12-24;694;897.0
+In Cold Blood;Truman Capote;New Directions Publishing;1480-12-16;679;67.0
+The Code of the Woosters;P. G. Wodehouse;Page;1805-12-11;692;78.0
+The Red and the Black;Stendhal;Oxford University Press - UK;1862-12-02;693;603.0
+Sybil;Benjamin Disraeli;Verso Books;1598-12-20;374;272.0
+In the Heart of the Heart of the Country & Other Stories ;William H. Gass;Log in;1611-12-18;658;1062.0
+Paroles;Jacques Prévert;Talk;1111-12-11;436;979.0
+The Maltese Falcon;Dashiell Hammett;Peter Owen Publishers;1162-12-11;93;587.0
+Alcools;Guillaume Apollinaire;Read;1189-12-10;934;90.0
+Wise Blood;Flannery O'Connor;Central European University Press;1523-12-15;626;326.0
+The Magus;John Fowles;Bloomsbury.com - Home page;1198-12-21;132;1104.0
+The Wonderful Adventures of Nils;Selma Lagerlöf;The New Press;1271-12-10;195;109.0
+The Blue Lotus;Hergé;Ivan R. Dee;1364-12-19;246;189.0
+The Naked and the Dead;Norman Mailer;This page was last changed on 21 June 2013, at 01:36.;1417-12-23;786;529.0
+Orlando: A Biography;Virginia Woolf;Paulist Press;1180-12-08;403;1039.0
+Hunger;Knut Hamsun;Simple talk;1768-12-22;987;420.0
+The Time Traveler's Wife;Audrey Niffenegger;Penguin Classics;1913-12-11;452;177.0
+A Tale of Two Cities;Charles Dickens;MIT Press;1502-12-26;994;493.0
+A Wrinkle in Time;Madeleine L'Engle;Bloodaxe Books;1860-12-15;724;505.0
+Les Misérables;Victor Hugo;Contributions;1027-12-07;608;861.0
+Tristes Tropiques;Claude Lévi-Strauss;Phoenix Press history reprints;1836-12-06;597;886.0
+Dream of the Red Chamber;Tsao Hsueh-Chin;Thames & Hudson (USA);1579-12-11;1000;359.0
+Slouching Towards Bethlehem;Joan Didion;This page was last changed on 21 June 2013, at 01:36.;1475-12-20;407;643.0
+Old Goriot;Honoré de Balzac;Princeton University Press;1536-12-08;837;287.0
+Oscar and Lucinda;Peter Carey;Harvard University Press;1605-12-03;658;629.0
+The Interrogation;J. M. G. Le Clezio;Picador USA;1789-12-18;793;735.0
+Appointment in Samarra;John O'Hara;Page information;1012-12-23;474;679.0
+A House for Mr.Biswas;V. S. Naipaul;Belknap Press of Harvard University Press;1414-12-11;567;673.0
+Perfume: The Story of a Murderer;Patrick Suskind;Anvil Press Poetry;1961-12-03;64;479.0
+Harry Potter and the Chamber of Secrets;J. K. Rowling;Hrvatski;1707-12-17;641;1106.0
+The Secret Garden ;Frances Hodgson Burnett;Pathfinder Books;1084-12-03;674;267.0
+Asterix the Gaul;René Goscinny;Routledge;1716-12-09;906;1104.0
+The Wasp Factory;Iain Banks;Page information;1012-12-02;189;68.0
+The Fountainhead;Ayn Rand;Hackett;1815-12-08;1036;956.0
+Four Plays;Eugene Ionesco;iBooks, Inc.;1746-12-04;1023;89.0
+Harry Potter and the Prisoner of Azkaban;J. K. Rowling;Text is available under the Creative Commons Attribution/Share-Alike License and the GFDL additional terms may apply. See Terms of Use for details.;1610-12-24;999;1070.0
+Germinal;Émile Zola;Welcome to Random House;1232-12-19;325;52.0
+The Moonstone;Wilkie Collins;Atlas Press;1737-12-09;1082;566.0
+Paddy Clarke Ha Ha Ha;Roddy Doyle;Tuttle Publishing;1268-12-24;578;680.0
+Sixty Stories;Donald Barthelme;Methuen;1079-12-08;321;274.0
+Three Essays on the Theory of Sexuality;Sigmund Freud;Dover Publications;1429-12-13;812;118.0
+Waiting for the Barbarians;J. M. Coetzee;Godine Publishing;1395-12-23;482;811.0
+Angela's Ashes;Frank McCourt;Lists;1176-12-14;36;229.0
+The Abyss;Marguerite Yourcenar;Athlone Books;1429-12-17;209;192.0
+The Way We Live Now;Anthony Trollope;City Lights Publishers;1271-12-12;401;313.0
+The Rifles;William Vollmann;Routledge;1102-12-22;821;386.0
+Democracy in America and Two essays on America;Alexis de Tocqueville;Shanti Sadan Publications;1296-12-09;394;132.0
+Cranford;Elizabeth Gaskell;Special pages;1839-12-15;781;717.0
+A Christmas Carol;Charles Dickens;Steerforth Press;1130-12-20;404;250.0
+Fahrenheit 451;Ray Bradbury;Steerforth Press;1119-12-10;1096;594.0
+The Recognitions;William Gaddis;Special pages;1122-12-06;741;853.0
+On the Origin of Species ;Charles Darwin;Main page;1129-12-19;626;348.0
+Sula;Toni Morrison;Dedalus Books;1246-12-15;45;672.0
+Daniel Deronda;George Eliot;University of Chicago Press;1969-12-13;113;1106.0
+The Tartar Steppe;Dino Buzzati;Simple start;1651-12-17;1053;527.0
+Young Lonigan;James T. Farrell;NYRB Classics;1444-12-22;844;428.0
+On the Social Contract;Jean-Jacques Rousseau;Verso Books;1516-12-17;816;243.0
+Sea of Poppies;Amitav Ghosh;Routledge;1425-12-11;919;556.0
+Portnoy's Complaint;Philip Roth;Smith and Kraus Publishers;1046-12-08;879;44.0
+Shadow of the Torturer;Gene Wolfe;Wikidata item;1142-12-09;454;1066.0
+Das Kapital;Karl Marx;University of California Press Books;1625-12-16;581;783.0
+Cider with Rosie;Laurie Lee;This page was last changed on 21 June 2013, at 01:36.;1724-12-07;669;713.0
+The Prince;Niccolò Machiavelli;Privacy policy;1042-12-16;1092;547.0
+The Horseman on the Roof;Jean Giono;Wikidata item;1616-12-08;899;701.0
+The Executioner's Song;Norman Mailer;About Wikipedia;1580-12-19;809;645.0
+Atlas Shrugged;Ayn Rand;Mobile view;1738-12-14;819;845.0
+Suite Française;Irene Nemirovsky;City Lights Publishers;1867-12-18;894;52.0
+Mountains Beyond Mountains;Tracy Kidder;Open Court Book;1256-12-03;465;201.0
+Cold Comfort Farm;Stella Gibbons;Privacy policy;1404-12-15;1109;1058.0
+The Story of Tracy Beaker;Jacqueline Wilson;Privacy policy;1487-12-10;847;54.0
+Angle of Repose;Wallace Stegner;Download as PDF;1341-12-22;678;149.0
+Confessions;Saint Augustine;Read;1472-12-08;924;701.0
+The Golden Bowl;Henry James;Northwestern University Press;1869-12-23;427;450.0
+Belle Du Seigneur;Albert Cohen;Tuttle Publishing;1065-12-09;495;65.0
+A Town Like Alice;Nevil Shute;Shambhala Publications;1214-12-09;894;779.0
+Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch;Neil Gaiman;Cookie statement;1038-12-03;468;1032.0
+Three Men in a Boat;Jerome K. Jerome;Dedalus Books;1129-12-10;63;499.0
+Leviathan;Thomas Hobbes;Ardis Books Homepage;1899-12-13;510;434.0
+The Ragged Trousered Philanthropists;Robert Tressell;Yale University Press;1202-12-25;269;619.0
+Bastard Out of Carolina;Dorothy Allison;Peter Owen Publishers;1410-12-14;782;416.0
+Hamlet;William Shakespeare;Bison Books;1981-12-08;209;608.0
+Sister Carrie;Theodore Dreiser;View history;1959-12-16;72;132.0
+Death Comes for the Archbishop;Willa Cather;Pan Macmillan;1192-12-02;376;695.0
+The Sea, the Sea;Iris Murdoch;Calder Publications;1606-12-23;555;359.0
+The French Lieutenant's Woman;John Fowles;Phaidon Press;1516-12-25;393;763.0
+The Pillars of The Earth ;Ken Follett;Catbird Press;1141-12-11;757;121.0
+Dhalgren;Samuel R. Delany;Dalkey Archive Press;1269-12-19;466;1012.0
+Swallows and Amazons;Arthur Ransome;Da Capo Press;1630-12-15;1056;737.0
+History of the Peloponnesian War;Thucydides;Overlook Press;1959-12-09;391;705.0
+The Picture of Dorian Gray;Oscar Wilde;Random House UK;1558-12-20;720;1123.0
+A handful of dust;Evelyn Waugh;Help;1839-12-22;225;184.0
+The Diary of a Nobody;George Grossmith;Random House UK;1818-12-05;627;506.0
+The Stain;Rikki Ducornet;Pantheon Books at Random House;1422-12-25;698;440.0
+Snow Country;Yasunari Kawabata;Make a book;1330-12-11;487;888.0
+The Bone People;Keri Hulme;Carroll and Graf;1485-12-17;264;790.0
+The God of Small Things;Arundhati Roy;City Lights Publishers;1225-12-20;1036;744.0
+Zazie dans le Métro;Raymond Queneau;Simple start;1525-12-11;1008;164.0
+Lord Jim;Joseph Conrad;Schocken Books;1802-12-07;224;1099.0
+Neuromancer;William Gibson;Make a book;1081-12-05;33;450.0
+Treasure Island;Robert Louis Stevenson;Detritus.com;1643-12-24;985;946.0
+Ragtime;E. L. Doctorow;Wordsworth Editions Website;1888-12-11;269;950.0
+The Kite Runner;Khaled Hosseini;University of Nebraska Press;1916-12-18;403;232.0
+Confusion: The Private Papers of Privy Councillor R. von D.;Stefan Zweig;Publishing;1854-12-26;950;968.0
+A Wizard of Earthsea;Ursula K. Le Guin;Oomf, Inc.;1094-12-12;344;829.0
+The Warden;Anthony Trollope;Open Court Book;1256-12-04;513;262.0
+The Riddle of the Sands;Erskine Childers;Indiana University Press;1654-12-17;541;498.0
+Gormenghast;Mervyn Peake;Vintage Books at Random House (UK);1799-12-07;541;1003.0
+The Secret History;Donna Tartt;Athlone Books;1968-12-09;989;287.0
+Lookout cartridge;Joseph McElroy;Cookie statement;1725-12-20;147;151.0
+The Shell Seekers;Rosamunde Pilcher;Hrvatski;1322-12-13;142;931.0
+The BFG;Roald Dahl;Create account;1894-12-18;534;851.0
+One Day in the Life of Ivan Denisovich;Alexander Solzhenitsyn;Dover Publications;1179-12-10;137;1009.0
+The Heart of the Matter ;Graham Greene;Scholastic Inc.;1263-12-03;832;612.0
+Call it Sleep;Henry Roth;Overlook Press;1658-12-26;863;805.0
+Bonjour Tristesse;Françoise Sagan;Station Hill Press;1778-12-18;488;821.0
+Sophie's World;Jostein Gaarder;Create account;1057-12-02;444;499.0
+The Da Vinci Code;Dan Brown;Sun & Moon;1006-12-23;745;60.0
+The Sot-Weed Factor;John Barth;Arcade Publishing;1004-12-15;355;746.0
+Le Silence de La Mer;Vercors;Pantheon Books at Random House;1570-12-07;211;847.0
+Bridget Jones's Diary;Helen Fielding;Talk;1604-12-14;217;600.0
+Deliverance;James Dickey;Text is available under the Creative Commons Attribution/Share-Alike License and the GFDL additional terms may apply. See Terms of Use for details.;1339-12-26;950;439.0
+Genoa;Paul Metcalf;Princeton University Press;1922-12-13;246;781.0
+Snow Falling on Cedars;David Guterson;Stone Bridge Press;1866-12-14;136;156.0
+Fathers and Sons;Ivan Turgenev;Bloomsbury.com - Home page;1355-12-04;487;65.0
+A Wild Sheep Chase;Haruki Murakami;randomhouse.com (US);2009-12-04;677;586.0
+Point Counter Point;Aldous Huxley;Simple talk;1768-12-20;942;322.0
+Babbitt;Sinclair Lewis;Prometheus Books;1260-12-10;817;189.0
+The Souls of Black Folk;W. E. B. Du Bois;Princeton University Press;1815-12-06;252;963.0
+The Thirty-Nine Steps;John Buchan;SUNY Press;1583-12-05;214;1076.0
+The Jungle;Upton Sinclair;iBooks, Inc.;1265-12-21;417;349.0
+Under Satan's Sun;Georges Bernanos;Shanti Sadan Publications;1618-12-11;1061;441.0
+The Voyeur;Alain Robbe-Grillet;Vintage Books at Random House (UK);1777-12-07;272;566.0
+The Secret Agent;Joseph Conrad;New changes;1585-12-19;534;940.0
+All Quiet on the Western Front;Erich Maria Remarque;Upload file;1456-12-21;798;644.0
+Double or Nothing;Raymond Federman;Change source;1072-12-05;651;510.0
+The Bonfire of the Vanities;Tom Wolfe;Penguin UK;1045-12-07;1045;889.0
+The Phantom Tollbooth;Norton Juster;Dalkey Archive Press;1703-12-16;632;992.0
+Amers/Oiseaux/Poesie;Saint-John Perse;Permanent link;1731-12-12;907;418.0
+The House of the Spirits;Isabel Allende;CompanionGuides.com;1938-12-21;249;560.0
+Paradise Lost;John Milton;University of Toronto Medieval Texts;1710-12-19;157;449.0
+The Joke;Milan Kundera;Phoenix Press history reprints;1649-12-11;133;549.0
+The Wonderful Wizard of Oz;L. Frank Baum;Hesperus press;1949-12-23;79;510.0
+At Swim-Two-Birds ;Flann O'Brien;Twisted Spoon Press;1413-12-21;657;736.0
+Contempt;Alberto Moravia;Phaidon Press;1646-12-04;54;855.0
+Dealing with Dragons;Patricia C. Wrede;Welcome to Random House;1240-12-11;880;370.0
+Blood Meridian;Cormac McCarthy;Cambridge University Press;1865-12-17;531;896.0
+The Home and the World;Rabindranath Tagore;Phoenix Press history reprints;1866-12-14;934;404.0
+2001: A Space Odyssey;Arthur C. Clarke;Page for printing;1488-12-26;881;867.0
+American Pastoral;Philip Roth;Athlone Books;1865-12-11;838;783.0
+The Cannibal;John Hawkes;Borzoi Reader Classics;1946-12-18;810;586.0
+Matilda;Roald Dahl;Phoenix Press history reprints;1604-12-06;460;847.0
+The Thornbirds;Colleen McCullough;New Directions Publishing;1523-12-09;700;96.0
+The Murder of Roger Ackroyd;Agatha Christie;Johns Hopkins University Press;1055-12-15;263;196.0
+Good Night, Mr. Tom;Michelle Magorian;University of Nebraska Press;1367-12-03;1083;300.0
+Nadja;André Breton;Dedalus Books;1949-12-16;796;1061.0
+King Lear;William Shakespeare;Exact Change;1895-12-02;1010;132.0
+The Magnificent Ambersons;Booth Tarkington;Pathfinder Books;1785-12-18;703;680.0
+Othello;William Shakespeare;Mobile view;1165-12-05;1000;672.0
+Aurélien;Louis Aragon;Vintage (US);1169-12-11;26;721.0
+Hard-Boiled Wonderland and the End of the World;Haruki Murakami;Glas New Russian Writing;1325-12-22;401;358.0
+The Color of Water;James McBride;Harvill Press at Random House;1987-12-26;683;472.0
+Soulier De Satin;Paul Claudel;Stone Bridge Press;1967-12-24;732;61.0
+Leaves of Grass;Walt Whitman;Modern Library;1501-12-08;1114;196.0
+The Sonnets;William Shakespeare;Privacy policy;1236-12-17;878;593.0
+American Psycho;Bret Easton Ellis;Copper Canyon Press;1492-12-10;549;725.0
+The Bean Trees;Barbara Kingsolver;Prometheus Books;1638-12-21;339;937.0
+Nightwood;Djuna Barnes;Da Capo Press;1691-12-06;1042;356.0
+Raise High the Roof Beam, Carpenters and Seymour: An Introduction ;J. D. Salinger;Carcanet;1838-12-13;391;325.0
+High Fidelity;Nick Hornby;TASCHEN Books;1850-12-03;49;281.0
+Fear and Loathing in Las Vegas;Hunter S. Thompson;Bison Books;1864-12-11;738;431.0
+Kane and Abel;Jeffrey Archer;HarperCollins Publishers;1016-12-17;515;911.0
+Franny and Zooey ;J. D. Salinger;Penguin UK;1480-12-13;1029;364.0
+The Resistible Rise of Arturo Ui;Bertolt Brecht;Cite this page;1373-12-11;738;858.0
+Sense and Sensibility;Jane Austen;Kodansha;1793-12-17;246;168.0
+The Faraway Tree Stories;Enid Blyton;Northwestern University Press;1749-12-18;306;330.0
+Petersburg;Andrei Bely;Help;1106-12-24;949;793.0
+City of Glass;Paul Auster;Cite this page;1358-12-18;688;439.0
+Watchmen;Alan Moore;Oxford University Press - UK;1542-12-06;1042;981.0
+The Satanic Verses;Salman Rushdie;Harvard University Press;1425-12-19;693;238.0
+Libra;Don DeLillo;Help;1610-12-13;264;107.0
+Friday, or, The Other Island;Michel Tournier;Dover Publications;1585-12-07;910;920.0
+The Shadow of the Wind;Carlos Ruiz Zafón;Phaidon Press;1749-12-15;60;566.0
+Parade's End;Ford Madox Ford;Black Sparrow Books;1508-12-03;356;129.0
+The Pursuit of Love;Nancy Mitford;Harvill Press at Random House;1161-12-19;784;98.0
+Always Coming Home;Ursula K. Le Guin;Twisted Spoon Press;1517-12-16;560;132.0
+The Princesse de Cleves;Madame de La Fayette;Pathfinder Books;1743-12-26;960;893.0
+The Lock;William S. Burroughs;Creative Commons Attribution;2087-05-06;346;832.0
+Black Beauty;Anna Sewell;Shambhala Publications;1729-12-19;479;487.0
+The Savage Detectives;Roberto Bolaño;TASCHEN Books;1460-12-05;316;337.0
+London Fields;Martin Amis;Smith and Kraus Publishers;1675-12-16;757;891.0
+Infinite Jest;David Foster Wallace;Cite this page;1645-12-13;573;73.0
+Artemis Fowl;Eoin Colfer;Creation Books;1807-12-06;522;807.0
+Les Vrilles de La Vigne;Colette;Not logged in;1927-12-18;418;304.0
+The Curious Incident of the Dog in the Night-Time;Mark Haddon;Oxford University Press - US;1403-12-05;865;207.0
+Zuleika Dobson;Max Beerbohm;Stone Bridge Press;1429-12-20;688;775.0
+Testament of Youth;Vera Brittain;About Wikipedia;1850-12-24;591;88.0
+Capital of Pain;Paul Eluard;Dover Publications;1082-12-11;980;631.0
+A Tree Grows in Brooklyn;Betty Smith;Contributions;1342-12-03;36;26.0
+Half of a Yellow Sun;Chimamanda Ngozi Adichie;Verso Books;1273-12-14;913;329.0
+A Good Man is Hard to Find and Other Stories;Flannery O'Connor;iBooks, Inc.;1048-12-11;644;388.0
+Martin Eden;Jack London;Log in;1600-12-02;660;728.0
+Red Harvest;Dashiell Hammett;W.W. Norton & Company;1949-12-11;526;1005.0
+Noughts & Crosses;Malorie Blackman;HarperCollins Publishers;1621-12-19;825;390.0
+The Leopard;Giuseppe Di Lampedusa;TASCHEN Books;1700-12-20;1123;1015.0
+The Alexandria Quartet;Lawrence Durrell;Contributions;1251-12-18;335;129.0
+The Ballad of the Salt Sea;Hugo Pratt;Continuum - Athlone;1642-12-04;184;1017.0
+What We Talk About When We Talk About Love;Raymond Carver;Page;1816-12-19;946;657.0
+Haroun and the Sea of Stories;Salman Rushdie;Harvill Press at Random House;1763-12-06;926;1012.0
+Writing Degree Zero;Roland Barthes;Privacy policy;1820-12-16;433;728.0
+Cane;Jean Toomer;Vintage (US);1752-12-17;897;1092.0
+The Lovely Bones ;Alice Sebold;Grove Press / Atlantic Monthly Press;1125-12-13;585;1002.0
+Tales of the City ;Armistead Maupin;Twisted Spoon Press;1399-12-17;840;841.0
+The Joy Luck Club;Amy Tan;Catbird Press;1643-12-25;1117;429.0
+Mort;Terry Pratchett;Pathfinder Books;1204-12-13;1087;587.0
+The Opposing Shore;Julien Gracq;Page information;1505-12-21;822;374.0
+The Order of Things: An Archaeology of the Human Sciences;Michel Foucault;Dalkey Archive Press;1605-12-26;868;293.0
+Riddley Walker;Russell Hoban;Wikidata item;1981-12-10;100;522.0
+Of Human Bondage;W. Somerset Maugham;Talk;1471-12-13;43;373.0
+Go in beauty;William Eastlake;HarperCollins Publishers;2002-12-12;611;951.0
+A Separate Peace;John Knowles;Farrar;1424-12-17;349;962.0
+The Quiet American;Graham Greene;Talk;1869-12-25;37;922.0
+Dracula;Bram Stoker;English;1788-12-24;531;890.0
+The Franchiser;Stanley Elkin;Schocken Books;1863-12-07;910;841.0
+Zen and the Art of Motorcycle Maintenance;Robert M. Pirsig;Grove Press / Atlantic Monthly Press;1757-12-20;45;871.0
+Enormous Changes at the Last Minute;Grace Paley;Read;1498-12-21;31;1031.0
+Guards! Guards!;Terry Pratchett;Wordsworth Editions Website;1300-12-02;59;483.0
+Ellen Foster;Kaye Gibbons;Interlink Publishing Online;1990-12-18;586;644.0
+A Room of One's Own;Virginia Woolf;Columbia University Press;1409-12-02;614;398.0
+Tinker, Tailor, Soldier, Spy;John le Carré;Penguin UK;1068-12-11;1091;1015.0
+Berlin Alexanderplatz;Alfred Döblin;View history;1852-12-24;430;428.0
+Cold Sassy Tree;Olive Ann Burns;Contributions;1953-12-21;901;138.0
+Look Homeward, Angel;Thomas Wolfe;Not logged in;1374-12-09;695;63.0
+The Martian Chronicles;Ray Bradbury;University of Toronto Medieval Texts;1828-12-04;1055;694.0
+Skinny Legs and All;Tom Robbins;Permanent link;1811-12-04;35;296.0
+Oliver Twist;Charles Dickens;Show any page;1416-12-05;673;346.0
+It   ;Stephen King;Schocken Books;2017-12-09;398;572.0
+A High Wind in Jamaica;Richard Hughes;Special pages;1144-12-05;974;614.0
+Cities of Salt;Abdelrahman Munif;Download as PDF;1489-12-26;185;892.0
+You Shall Know Our Velocity;Dave Eggers;Change;1599-12-15;818;377.0
+Le Ravissement de Lol V. Stein;Marguerite Duras;What links here;1499-12-18;373;382.0
+The Death of Artemio Cruz;Carlos Fuentes;University of Nebraska Press;1304-12-23;306;544.0
+The Power and the Glory;Graham Greene;Glas New Russian Writing;1919-12-13;352;302.0
+War and Remembrance;Herman Wouk;iBooks, Inc.;1959-12-14;856;313.0
+Baudolino;Umberto Eco;Station Hill Press;1610-12-05;95;609.0
+Dinner at the Homesick Restaurant;Anne Tyler;Da Capo Press;1686-12-24;416;66.0
+The age of wire and string;Ben Marcus;Inpress Books UK;1180-12-15;672;577.0
+The Sorrows of Young Werther;Johann Wolfgang von Goethe;Help;1561-12-15;997;94.0
+Where the Wild Things Are;Maurice Sendak;Prometheus Books;1242-12-20;342;373.0
+Night Watch;Terry Pratchett;Cookie statement;1117-12-17;313;493.0
+Tropismes;Nathalie Sarraute;TASCHEN Books;1960-12-06;962;685.0
+Tlooth;Harry Mathews;Cambridge University Press;1234-12-21;580;499.0
+The Godfather;Mario Puzo;Publishing;1463-12-18;831;571.0
+Been Down So Long It Looks Like Up to Me;Richard Fariña;Permanent link;1973-12-22;85;531.0
+Pricksongs & descants;Robert Coover;HarperCollins Publishers;1977-12-02;151;203.0
+Waiting for the Mahatma;R. K. Narayan;Ardis Books Homepage;1577-12-18;790;999.0
+The Journal of Jules Renard;Jules Renard;Penguin UK;1874-12-20;514;432.0
+Notes from a small island;Bill Bryson;The New Press;1300-12-24;840;982.0
+Centennial;James A. Michener;View history;1519-12-21;372;654.0
+the man in the high castle;Philip K. Dick;Schocken Books;1973-12-03;1013;742.0
+The Last Chronicle of Barset;Anthony Trollope;Open Court Book;1478-12-14;141;820.0
+Night;Elie Wiesel;Random House UK;1112-12-07;968;305.0
+The Pickwick Papers;Charles Dickens;iBooks, Inc.;1104-12-26;762;435.0
+Écrits;Jacques Lacan;Lists;1730-12-23;753;388.0
+Silent Spring;Rachel Carson;Bloodaxe Books;1711-12-07;83;261.0
+Jayber Crow;Wendell Berry;Carroll and Graf;1231-12-11;1048;500.0
+Mrs Palfrey at the Claremont;Elizabeth Taylor;Penguin Classics;1422-12-20;468;909.0
+The road from Coorain;Jill Ker Conway;Simple start;1403-12-16;389;985.0
+The Theater and Its Double;Antonin Artaud;Stanford University Press;1498-12-07;849;512.0
+The Three Musketeers;Alexandre Dumas;HarperCollins Publishers;1988-12-10;438;1100.0
+The Autobiography of Alice B. Toklas;Gertrude Stein;New changes;1599-12-02;856;865.0
+Little, Big;John Crowley;Stone Bridge Press;1631-12-10;357;191.0
+Manhattan Transfer;John Dos Passos;Change;1261-12-23;699;877.0
+A Brief History of Time;Stephen Hawking;Vintage (US);1494-12-06;588;703.0
+Candide;Voltaire;Hackett;1018-12-12;924;435.0
+The Sheltering Sky;Paul Bowles;Page for printing;1754-12-09;948;386.0
+Popol Vuh;Anonymous;Tuttle Publishing;1255-12-23;804;42.0
+Time and Again;Jack Finney;Black Sparrow Books;1929-12-20;487;894.0
+Moravagine;Blaise Cendrars;Help;1069-12-19;524;1035.0
+The Left Hand of Darkness;Ursula K. Le Guin;Change source;1312-12-24;166;854.0
+Double Act;Jacqueline Wilson;Page information;1312-12-23;1084;914.0
+James and the Giant Peach;Roald Dahl;Indiana University Press;1913-12-03;639;1058.0
+The Bottle Factory Outing;Beryl Bainbridge;Disclaimers;1532-12-06;591;103.0
+Cloud Atlas;David Mitchell;Phaidon Press;1619-12-07;570;1106.0
+The Tunnel;William H. Gass;Northwestern University Press;1070-12-26;1012;834.0
+The Merry Adventures of Robin Hood;Howard Pyle;University of California Press Books;1982-12-12;564;390.0
+The Twits;Roald Dahl;Tuttle Publishing;1411-12-19;305;170.0
+The General of the Dead Army;Ismail Kadare;Disclaimers;1176-12-20;1038;351.0
+Omensetter's Luck;William H. Gass;Change;1910-12-19;142;794.0
+The Razor's Edge;W. Somerset Maugham;MIT Press;1968-12-11;69;120.0
+I Capture the Castle;Dodie Smith;City Lights Publishers;1902-12-09;1039;909.0
+Oblomov;Ivan Goncharov;Duckworth Online;1074-12-05;1016;342.0
+O Pioneers!;Willa Cather;University of Minnesota Press;1646-12-02;179;1034.0
+Delia Smith's Complete Cookery Course;Delia Smith;Bloomsbury.com - Home page;1677-12-20;703;163.0
+Romancero Gitano;Federico García Lorca;Simple talk;1324-12-06;859;729.0
+Holes;Louis Sachar;Catbird Press;1331-12-05;840;603.0
+Under the Net;Iris Murdoch;This page was last changed on 21 June 2013, at 01:36.;1997-12-11;597;37.0
+Darconville's Cat ;Alexander Theroux;Page for printing;1799-12-07;400;901.0
+Waverley;Walter Scott;Verso Books;1041-12-20;626;387.0
+Maigret and the Enigmatic Letter;Georges Simenon;University of California Press Books;1364-12-25;534;395.0
+The Death of the Heart;Elizabeth Bowen;Pantheon Books at Random House;1108-12-16;501;920.0
+An evil cradling;Brian Keenan;Carroll and Graf;1818-12-05;1020;178.0
+Our Lady of the Flowers;Jean Genet;Harvill Press at Random House;1401-12-04;631;779.0
+Up;Ronald Sukenick;Picador UK;1481-12-05;804;677.0
+A Fine Balance;Rohinton Mistry;Make a book;1099-12-10;870;625.0
+The Interpretation of Dreams;Sigmund Freud;Oomf, Inc.;1090-12-15;1058;729.0
+Down and out in Paris and London;George Orwell;Privacy policy;1688-12-07;519;66.0
+Yellow Back Radio Broke-Down;Ishmael Reed;Godine Publishing;1468-12-20;195;511.0
+Lanark;Alasdair Gray;Marion Boyars Online;1541-12-09;807;566.0
+Vicky Angel;Jacqueline Wilson;Verso Books;1508-12-13;255;296.0
+Nine Stories;J. D. Salinger;Borzoi Reader Classics;1223-12-22;753;326.0
+Fureur Et Mystere;René Char;Columbia University Press;1319-12-24;516;383.0
+The Bostonians;Henry James;What links here;1612-12-21;175;323.0
+The Old Wives' Tale;Arnold Bennett;Make a book;1235-12-06;238;914.0
+Drown;Junot Diaz;Main page;1204-12-02;490;820.0
+The Education of Henry Adams;Henry Adams;Modern Library;1907-12-22;847;137.0
+The Betrothed;Alessandro Manzoni;Northwestern University Press;1485-12-13;928;912.0
+The Last of the Mohicans;James Fenimore Cooper;Text is available under the Creative Commons Attribution/Share-Alike License and the GFDL additional terms may apply. See Terms of Use for details.;1497-12-20;893;47.0
+The Five People You Meet in Heaven;Mitch Albom;Open Court Book;1104-12-16;72;99.0
+Quotations from Chairman Mao Tse-Tung;Mao Tse-Tung;Carcanet;1209-12-26;676;926.0
+Eugene Onegin;Alexander Pushkin;Download as PDF;1135-12-03;986;78.0
+You Bright & Risen Angels ;William Vollmann;Dalkey Archive Press;1230-12-22;68;580.0
+The Alienist;Caleb Carr;Kodansha;1112-12-25;403;668.0
+Uncle Tom's Cabin;Harriet Beecher Stowe;Read;2002-12-08;804;672.0
+The Adventures of Sherlock Holmes ;Sir Arthur Conan Doyle;Stanford University Press;1176-12-22;423;914.0
+The Periodic Table;Primo Levi;Verso Books;1024-12-05;439;1024.0
+Magician;Raymond E. Feist;University of Chicago Press;1542-12-23;835;503.0
+Talk Before Sleep;Elizabeth Berg;Pan Macmillan;2002-12-04;133;191.0
+Loving;Henry Green;Change;1779-12-20;138;288.0
+No Orchids for Miss Blandish;James Hadley Chase;Dover Publications;1357-12-19;825;449.0
+The Varieties of Religious Experience;William James;Central European University Press;1262-12-04;189;358.0
+The Secret of the Swordfish;Edgar P. Jacobs;University of California Press Books;1544-12-02;622;1071.0
+Money;Martin Amis;Shanti Sadan Publications;1848-12-14;536;1044.0
+The Universal Baseball Association, inc.;Robert Coover;Developers;1204-12-26;702;874.0
+Creamy and Delicious;Steve Katz;MIT Press;1675-12-25;325;450.0
+Tobacco Road;Erskine Caldwell;Creation Books;1427-12-04;1061;446.0
+The Notebooks of Malte Laurids Brigge;Rainer Maria Rilke;Change source;1464-12-20;790;481.0
+The Selfish Gene;Richard Dawkins;Anvil Press Poetry;1679-12-06;223;997.0
+The Blue Sword;Robin McKinley;Anvil Press Poetry;1155-12-11;711;257.0
+An Artist of the Floating World;Kazuo Ishiguro;Vintage (US);1910-12-18;898;370.0
+This Side of Paradise;F. Scott Fitzgerald;Paulist Press;1191-12-14;477;637.0
+Rubyfruit Jungle;Rita Mae Brown;Farrar;1437-12-11;467;60.0
+Jurassic Park;Michael Crichton;Read;1665-12-09;523;30.0
+La Modification;Michel Butor;Stanford University Press;1261-12-12;44;902.0
+The General Theory of Employment, Interest and Money;John Maynard Keynes;Page information;1232-12-06;507;274.0
+The Clan of the Cave Bear;Jean M. Auel;Malton House Press;1803-12-09;99;296.0
+The Colour of Magic;Terry Pratchett;Contributions;1478-12-05;646;445.0
+More Than Human;Theodore Sturgeon;Zephyr Press;1632-12-02;435;360.0
+The Origins of Totalitarianism;Hannah Arendt;Penguin Classics;1496-12-24;598;187.0
+The Book of Laughter and Forgetting;Milan Kundera;Ivan R. Dee;1363-12-11;936;804.0
+The Prince of Tides;Pat Conroy;Mobile view;1065-12-23;765;878.0
+The Alchemist;Paulo Coelho;Stanford University Press;1716-12-05;967;957.0
+Goodbye to All That ;Robert Graves;University of California Press Books;1946-12-26;928;1013.0
+Cry, the Beloved Country;Alan Paton;Phaidon Press;1172-12-12;1011;160.0
+Mulligan Stew;Gilbert Sorrentino;Oxford University Press - US;1911-12-21;823;851.0
+L. A. Confidential;James Ellroy;Harvard University Press;1318-12-12;132;102.0
+The Affluent Society;John Kenneth Galbraith;Wisdom Publications;1674-12-22;1071;501.0
+The Rosy Crucifixion;Henry Miller;Station Hill Press;1970-12-07;969;558.0
+Katherine;Anya Seton;Picador USA;1315-12-05;425;349.0
+A Little Princess;Frances Hodgson Burnett;Station Hill Press;1486-12-19;901;1106.0
+The Beautiful and Damned;F. Scott Fitzgerald;Yale University Press;1578-12-11;778;222.0
+Wise Children;Angela Carter;Methuen;1610-12-11;322;284.0
+The Arabian Nights: Tales from a Thousand and One Nights;Richard Burton;Stone Bridge Press;1281-12-02;132;403.0
+A People's History of the United States;Howard Zinn;Cambridge University Press;1231-12-17;532;920.0
+The Van;Roddy Doyle;Glas New Russian Writing;1556-12-04;413;630.0
+The Good Soldier Svejk;Jaroslav Hasek;Permanent link;1902-12-04;571;853.0
+The Autobiography of Malcolm X;Malcolm X;Make a book;1518-12-23;1110;357.0
+Easy Travel to Other Planets;Ted Mooney;Black Sparrow Books;1772-12-04;415;148.0
+The Postman Always Rings Twice;James M. Cain;Hackett;1032-12-20;939;832.0
+Where Angels Fear to Tread;E. M. Forster;Wordsworth Editions Website;1545-12-16;189;940.0
+Sometimes a Great Notion;Ken Kesey;Basic Books;1884-12-06;104;1045.0
+Gaston, tome 1;André Franquin;randomhouse.com (US);1174-12-11;409;695.0
+Tours of the Black Clock;Steve Erickson;Pantheon Books at Random House;1492-12-03;515;316.0
+Girls in Love;Jacqueline Wilson;Page;1558-12-03;537;401.0
+Earthly Powers;Anthony Burgess;Contributions;1549-12-15;863;1119.0
+Eminent Victorians;Lytton Strachey;Thames & Hudson (USA);1499-12-05;924;1098.0
+The Ginger Man;J. P. Donleavy;W.W. Norton & Company;1910-12-02;1007;1063.0
+Hawaii;James A. Michener;Oxford University Press - US;1865-12-05;330;434.0
+In Memoriam to Identity;Kathy Acker;Stanford University Press;1487-12-14;777;801.0
+The Princess Diaries;Meg Cabot;Modern Library;1930-12-15;272;43.0
+The Second World War;Winston S. Churchill;Kessinger Publishing;1754-12-06;469;612.0
+The Education of Little Tree;Forrest Carter;Lists;1910-12-08;753;611.0
+The Horse Whisperer;Nicholas Evans;Arcade Publishing;1219-12-25;226;630.0
+Hogg;Samuel R. Delany;NYRB Classics;1284-12-12;292;256.0
