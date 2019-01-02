@@ -2,7 +2,7 @@
 
 Простое тестовое приложение на Java с использованием material-дизайна на основе библиотеки JFoenix
 
-Видео-презентация: <a href="./presentation/presentation.mp4">presentation/presentation.mp4</a>
+Видео-презентация: <a href="https://www.youtube.com/watch?v=rpPdIbPfmZs">https://www.youtube.com/watch?v=rpPdIbPfmZs</a>
 
 <img src="./presentation/screenshot1.png" />
 
