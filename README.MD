@@ -24,7 +24,9 @@
 реализованы классы `TextStorage<T>` и `BinaryStorage<T>`. В приложнеии свободно 
 можно менять тип хранилища с TextStorage на BinaryStorage и наоборот.
 
-### Вспомогательные библиотеки и технологии
+### Используемые языки и библиотеки:
 
+- Java
+- JavaFX (FXML)
 - JFoenix
 - Sass (css)
