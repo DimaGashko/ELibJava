@@ -2,7 +2,7 @@
 
 Простое тестовое приложение на Java с использованием material-дизайна на основе библиотеки JFoenix
 
-Видео-презентация: <a href="https://www.youtube.com/watch?v=OgBQY0YI-40">https://www.youtube.com/watch?v=OgBQY0YI-40</a>
+YouTube: https://youtu.be/OgBQY0YI-40
 
 <img src="./presentation/screenshot1.png" />
 
@@ -24,7 +24,9 @@
 реализованы классы `TextStorage<T>` и `BinaryStorage<T>`. В приложнеии свободно 
 можно менять тип хранилища с TextStorage на BinaryStorage и наоборот.
 
-### Вспомогательные библиотеки и технологии
+### Используемые языки и библиотеки:
 
+- Java
+- JavaFX (FXML)
 - JFoenix
 - Sass (css)
